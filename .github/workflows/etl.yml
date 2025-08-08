@@ -1,5 +1,8 @@
 name: ETL Python
 
+permissions:
+  contents: write  # <-- permite hacer commit/push con GITHUB_TOKEN
+  
 on:
   schedule:
     - cron: "0 12 * * *"   # 07:00 Ecuador aprox (UTC-5) -> 12:00 UTC. Ajusta si cambia horario.
