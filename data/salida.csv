@@ -1,70 +1,56 @@
 glosa,fecha,id,cuenta_id,centro_costo_id,tipo,valor,nombre,codigo
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,RMdR6k90VFlkkdl6,,D,7519.17,IVA sobre Ventas,2.1.7.4.1
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,PnazpQZ4OIBppdO2,,D,1067.58,Caja Chica,1.1.1.2
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,xmbmZ8JkncYKKdoK,,H,332.06,Productos terminados y mercadería comprados a terceros,1.1.3.6
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,nPeER14y4hGJJap1,,H,717.12,IVA sobre Compras,1.1.5.1.1
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,mBdJ6z51vFzmmd0J,,H,374.10,30% Bienes,1.1.5.2.1
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,jZdyP7YAgiWzzbJ4,,H,47577.03,Caja,1.1.1.1
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,9jaKrz4GJtwvvek5,,H,58.80,70% Servicios,1.1.5.2.2
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,P9aQWj4m5iqEEdDM,,H,88.73,Otras Retenciones Aplicables al Cód. 343,1.1.5.3.7
-Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,jZdyP7YxntWzzbJ4,,D,14814.36,Resultado del Ejercicio,3.1.7.1
 Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,BXdL904wDuOppeJZ,,D,26546.73,Resultados Acumulados,3.1.6.1
 Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,Yjbqx6Nm7srPPaLN,,H,800.00,Capital Social suscrito o pagado,3.1.1.1
-"Doc. 001-001-000000182,   CONFECCION UNIFORME DESCIFRAR",01/03/2024,jZdy979xVhWzzdJ4,jZdyP7YAgiWzzbJ4,,D,83.44,Caja,1.1.1.1
-"Doc. 001-001-000000181,   CONFECCION DELANTALES CURSOS CORTOS",01/03/2024,QzaO8Z6VGUX99bp4,JvaM8N4KRt800epz,,H,476.00,Clientes Comerciales,1.1.2.5.1
-CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,RMdR6k90VFlkkdl6,,H,8.94,IVA sobre Ventas,2.1.7.4.1
-CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,32.00,Venta de Bienes,4.1.1
-CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,16.50,Venta de Bienes,4.1.1
-CONFECCION DELANTALES CURSOS CORTOS,01/03/2024,xgepkkOkpfLNNd1p,JvaM8N4KRt800epz,,D,476.00,Clientes Comerciales,1.1.2.5.1
-CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,10.00,Venta de Bienes,4.1.1
-"Doc. 001-001-000000181,   CONFECCION DELANTALES CURSOS CORTOS",01/03/2024,QzaO8Z6VGUX99bp4,jZdyP7YAgiWzzbJ4,,D,476.00,Caja,1.1.1.1
-"Doc. 001-001-000000182,   CONFECCION UNIFORME DESCIFRAR",01/03/2024,jZdy979xVhWzzdJ4,JvaM8N4KRt800epz,,H,83.44,Clientes Comerciales,1.1.2.5.1
-CONFECCION DELANTALES CURSOS CORTOS,01/03/2024,xgepkkOkpfLNNd1p,RMdR6k90VFlkkdl6,,H,51.00,IVA sobre Ventas,2.1.7.4.1
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,RMdR6k90VFlkkdl6,,D,7519.17,IVA sobre Ventas,2.1.7.4.1
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,P9aQWj4m5iqEEdDM,,H,88.73,Otras Retenciones Aplicables al Cód. 343,1.1.5.3.7
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,9jaKrz4GJtwvvek5,,H,58.80,70% Servicios,1.1.5.2.2
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,jZdyP7YxntWzzbJ4,,D,14814.36,Resultado del Ejercicio,3.1.7.1
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,mBdJ6z51vFzmmd0J,,H,374.10,30% Bienes,1.1.5.2.1
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,nPeER14y4hGJJap1,,H,717.12,IVA sobre Compras,1.1.5.1.1
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,xmbmZ8JkncYKKdoK,,H,332.06,Productos terminados y mercadería comprados a terceros,1.1.3.6
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,PnazpQZ4OIBppdO2,,D,1067.58,Caja Chica,1.1.1.2
+Asiento de ajuste,01/01/2024,DGe7JjX18F6xxdn2,jZdyP7YAgiWzzbJ4,,H,47577.03,Caja,1.1.1.1
 CONFECCION DELANTALES CURSOS CORTOS,01/03/2024,xgepkkOkpfLNNd1p,nPeER14mgIGJJap1,,H,425.00,Venta de Bienes,4.1.1
-CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,16.00,Venta de Bienes,4.1.1
+CONFECCION DELANTALES CURSOS CORTOS,01/03/2024,xgepkkOkpfLNNd1p,RMdR6k90VFlkkdl6,,H,51.00,IVA sobre Ventas,2.1.7.4.1
+"Doc. 001-001-000000181,   CONFECCION DELANTALES CURSOS CORTOS",01/03/2024,QzaO8Z6VGUX99bp4,JvaM8N4KRt800epz,,H,476.00,Clientes Comerciales,1.1.2.5.1
+CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,10.00,Venta de Bienes,4.1.1
+CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,16.50,Venta de Bienes,4.1.1
+CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,32.00,Venta de Bienes,4.1.1
+CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,RMdR6k90VFlkkdl6,,H,8.94,IVA sobre Ventas,2.1.7.4.1
 CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,JvaM8N4KRt800epz,,D,83.44,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000182,   CONFECCION UNIFORME DESCIFRAR",01/03/2024,jZdy979xVhWzzdJ4,JvaM8N4KRt800epz,,H,83.44,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000182,   CONFECCION UNIFORME DESCIFRAR",01/03/2024,jZdy979xVhWzzdJ4,jZdyP7YAgiWzzbJ4,,D,83.44,Caja,1.1.1.1
+CONFECCION DELANTALES CURSOS CORTOS,01/03/2024,xgepkkOkpfLNNd1p,JvaM8N4KRt800epz,,D,476.00,Clientes Comerciales,1.1.2.5.1
+CONFECCION UNIFORME DESCIFRAR,01/03/2024,1qdGM86EJflppaN8,nPeER14mgIGJJap1,,H,16.00,Venta de Bienes,4.1.1
+"Doc. 001-001-000000181,   CONFECCION DELANTALES CURSOS CORTOS",01/03/2024,QzaO8Z6VGUX99bp4,jZdyP7YAgiWzzbJ4,,D,476.00,Caja,1.1.1.1
 CONTIFICO,01/03/2025,gQbWGxEJguYggb6w,1qdG6z4NLUlppbN8,,D,40.96,Servicios Contratados Adm.,5.2.1.2.14
 CONTIFICO,01/03/2025,gQbWGxEJguYggb6w,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
 CONTIFICO,01/03/2025,gQbWGxEJguYggb6w,nPeER14y4hGJJap1,,D,6.14,IVA sobre Compras,1.1.5.1.1
-BOTONES,01/03/2025,Gge0ZKwlKfWDDbAD,nPeER14y4hGJJap1,,D,0.46,IVA sobre Compras,1.1.5.1.1
-BOTONES,01/03/2025,Gge0ZKwlKfWDDbAD,DGe73Y47BH6xxen2,,H,3.50,Proveedores,2.1.3.1.1
-BOTONES,01/03/2025,Gge0ZKwlKfWDDbAD,Ejb2k2VNzsGJJdVN,,D,3.04,Otros Costos de Producción,5.1.4.8
-"Doc. 001-003-000210416,   BOTONES",01/03/2025,QzaOrE2lLUX99ep4,DGe73Y47BH6xxen2,,D,3.50,Proveedores,2.1.3.1.1
-"Doc. 001-003-000210416,   BOTONES",01/03/2025,QzaOrE2lLUX99ep4,MEegLgo2jhWxxaQ5,,H,3.50,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000730458,   CONTIFICO",01/03/2025,nPeE5Z2lvCGJJep1,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
 "Doc. 001-001-000730458,   CONTIFICO",01/03/2025,nPeE5Z2lvCGJJep1,MEegLgo2jhWxxaQ5,,H,47.10,Banco de Guayaquil,1.1.1.3.1
-"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
-"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,RMdR6k90VFlkkdl6,,H,6.45,IVA sobre Ventas,2.1.7.4.1
-"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,JvaM8N4KRt800epz,,D,49.45,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
-SERIE: 230701001
-Botonera direct drive DOSO
-MODEL: DS-1377AT SERIE:
-DSK23595",01/04/2025,BleX4JLNgSNyyerN,MEegLgo2jhWxxaQ5,,H,1394.06,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-003-000210416,   BOTONES",01/03/2025,QzaOrE2lLUX99ep4,MEegLgo2jhWxxaQ5,,H,3.50,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-003-000210416,   BOTONES",01/03/2025,QzaOrE2lLUX99ep4,DGe73Y47BH6xxen2,,D,3.50,Proveedores,2.1.3.1.1
+"Doc. 001-001-000730458,   CONTIFICO",01/03/2025,nPeE5Z2lvCGJJep1,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
+BOTONES,01/03/2025,Gge0ZKwlKfWDDbAD,DGe73Y47BH6xxen2,,H,3.50,Proveedores,2.1.3.1.1
+BOTONES,01/03/2025,Gge0ZKwlKfWDDbAD,nPeER14y4hGJJap1,,D,0.46,IVA sobre Compras,1.1.5.1.1
+BOTONES,01/03/2025,Gge0ZKwlKfWDDbAD,Ejb2k2VNzsGJJdVN,,D,3.04,Otros Costos de Producción,5.1.4.8
 "Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
 SERIE: 230701001
 Botonera direct drive DOSO
 MODEL: DS-1377AT SERIE:
 DSK23595",01/04/2025,BleX4JLNgSNyyerN,DGe73Y47BH6xxen2,,D,1394.06,Proveedores,2.1.3.1.1
-"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
+"Uniformes ""EPM"" sede MEXICO",01/04/2025,QzaOB17YBfX99ep4,RMdR6k90VFlkkdl6,,H,59.22,IVA sobre Ventas,2.1.7.4.1
+alm,01/04/2025,Y4er3Pllphj00a2L,Y4erkBOW4Uj00a2L,,D,6.94,Alimentación Adm.,5.2.1.2.4
 contifico,01/04/2025,Lmav3WvK5Sgjjb3N,1qdG6z4NLUlppbN8,,D,40.96,Servicios Contratados Adm.,5.2.1.2.14
-contifico,01/04/2025,Lmav3WvK5Sgjjb3N,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
 contifico,01/04/2025,Lmav3WvK5Sgjjb3N,nPeER14y4hGJJap1,,D,6.14,IVA sobre Compras,1.1.5.1.1
-"Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
-SERIE: 230701001
-Botonera direct drive DOSO
-MODEL: DS-1377AT SERIE:
-DSK23595",01/04/2025,JvaM4G8JOi800epz,MEegLgo2jhWxxaQ5,,H,1012.30,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000046826,   FOUR WAY STRETCH 60 GRIS
-OSCURo",01/04/2025,1qdG4XjkQHlppeN8,MEegLgo2jhWxxaQ5,,H,53.54,Banco de Guayaquil,1.1.1.3.1
+contifico,01/04/2025,Lmav3WvK5Sgjjb3N,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
+"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,JvaM8N4KRt800epz,,D,49.45,Clientes Comerciales,1.1.2.5.1
+"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,RMdR6k90VFlkkdl6,,H,6.45,IVA sobre Ventas,2.1.7.4.1
+"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
+"DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,BleXOjKzgSNyydrN,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
 "Uniformes ""EPM"" sede MEXICO",01/04/2025,QzaOB17YBfX99ep4,JvaM8N4KRt800epz,,D,454.02,Clientes Comerciales,1.1.2.5.1
-"Uniformes ""EPM"" sede MEXICO",01/04/2025,QzaOB17YBfX99ep4,nPeER14mgIGJJap1,,H,49.80,Venta de Bienes,4.1.1
 "Uniformes ""EPM"" sede MEXICO",01/04/2025,QzaOB17YBfX99ep4,nPeER14mgIGJJap1,,H,345.00,Venta de Bienes,4.1.1
-"Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
-SERIE: 230701001
-Botonera direct drive DOSO
-MODEL: DS-1377AT SERIE:
-DSK23595",01/04/2025,DGe7QroMOI6xxbn2,DGe73Y47BH6xxen2,,D,93.65,Proveedores,2.1.3.1.1
+"Doc. 001-001-000046826,   FOUR WAY STRETCH 60 GRIS
+OSCURo",01/04/2025,1qdG4XjkQHlppeN8,DGe73Y47BH6xxen2,,D,53.54,Proveedores,2.1.3.1.1
 "Uniforme Dreampack ""Sara""",01/04/2025,9pdB0zKvXhm99a8K,JvaM8N4KRt800epz,,D,52.90,Clientes Comerciales,1.1.2.5.1
 "Uniforme Dreampack ""Sara""",01/04/2025,9pdB0zKvXhm99a8K,RMdR6k90VFlkkdl6,,H,6.90,IVA sobre Ventas,2.1.7.4.1
 "Uniforme Dreampack ""Sara""",01/04/2025,9pdB0zKvXhm99a8K,nPeER14mgIGJJap1,,H,46.00,Venta de Bienes,4.1.1
@@ -75,28 +61,37 @@ DSK23595",01/04/2025,DGe7QroMOI6xxbn2,DGe73Y47BH6xxen2,,D,93.65,Proveedores,2.1.
 Elaboracion Mockup DIGITAL uniformes HANSEN HOLM,01/04/2025,EMax4Q5MnT044a5G,JvaM8N4KRt800epz,,D,45.00,Clientes Comerciales,1.1.2.5.1
 Elaboracion Mockup DIGITAL uniformes HANSEN HOLM,01/04/2025,EMax4Q5MnT044a5G,RMdR6k90VFlkkdl6,,H,5.87,IVA sobre Ventas,2.1.7.4.1
 Elaboracion Mockup DIGITAL uniformes HANSEN HOLM,01/04/2025,EMax4Q5MnT044a5G,nPeER14mgIGJJap1,,H,39.13,Venta de Bienes,4.1.1
+alm,01/04/2025,Y4er3Pllphj00a2L,DGe73Y47BH6xxen2,,H,7.98,Proveedores,2.1.3.1.1
 "Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
 SERIE: 230701001
 Botonera direct drive DOSO
 MODEL: DS-1377AT SERIE:
-DSK23595",01/04/2025,JvaM4G8JOi800epz,DGe73Y47BH6xxen2,,D,1012.30,Proveedores,2.1.3.1.1
+DSK23595",01/04/2025,BleX4JLNgSNyyerN,MEegLgo2jhWxxaQ5,,H,1394.06,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
+SERIE: 230701001
+Botonera direct drive DOSO
+MODEL: DS-1377AT SERIE:
+DSK23595",01/04/2025,DGe7QroMOI6xxbn2,DGe73Y47BH6xxen2,,D,93.65,Proveedores,2.1.3.1.1
 "Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
 SERIE: 230701001
 Botonera direct drive DOSO
 MODEL: DS-1377AT SERIE:
 DSK23595",01/04/2025,DGe7QroMOI6xxbn2,PnazpQZ4OIBppdO2,,H,93.65,Caja Chica,1.1.1.2
-"Uniformes ""EPM"" sede MEXICO",01/04/2025,QzaOB17YBfX99ep4,RMdR6k90VFlkkdl6,,H,59.22,IVA sobre Ventas,2.1.7.4.1
-"Doc. 002-001-000380443,   polifan",01/04/2025,RBe3W877QFMJJeLJ,MEegLgo2jhWxxaQ5,,H,16.91,Banco de Guayaquil,1.1.1.3.1
+"Uniformes ""EPM"" sede MEXICO",01/04/2025,QzaOB17YBfX99ep4,nPeER14mgIGJJap1,,H,49.80,Venta de Bienes,4.1.1
+"Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
+SERIE: 230701001
+Botonera direct drive DOSO
+MODEL: DS-1377AT SERIE:
+DSK23595",01/04/2025,JvaM4G8JOi800epz,MEegLgo2jhWxxaQ5,,H,1012.30,Banco de Guayaquil,1.1.1.3.1
 "Doc. 001-001-000046826,   FOUR WAY STRETCH 60 GRIS
-OSCURo",01/04/2025,1qdG4XjkQHlppeN8,DGe73Y47BH6xxen2,,D,53.54,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000387,   DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,JvaMGBAWmI800dpz,JvaM8N4KRt800epz,,H,19.45,Clientes Comerciales,1.1.2.5.1
+OSCURo",01/04/2025,1qdG4XjkQHlppeN8,MEegLgo2jhWxxaQ5,,H,53.54,Banco de Guayaquil,1.1.1.3.1
+"Doc. 002-001-000380443,   polifan",01/04/2025,RBe3W877QFMJJeLJ,MEegLgo2jhWxxaQ5,,H,16.91,Banco de Guayaquil,1.1.1.3.1
 polifan,01/04/2025,RBe3AkmEQIMJJbLJ,loejR5DBBUJMMeQM,,D,29.65,Suministros o materiales a ser consumidos en el proceso de producción ,1.1.3.3
 "OJALADORA DRIVE DS 781AT
 SERIE: 230701001
 Botonera direct drive DOSO
 MODEL: DS-1377AT SERIE:
 DSK23595",01/04/2025,01dNvVo4pIxrrdX7,DGe73Y47BH6xxen2,,H,2500.01,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000384,   Uniforme dreampack ""Hellen""",01/04/2025,RBe3NYyVpcMJJdLJ,JvaM8N4KRt800epz,,H,106.98,Clientes Comerciales,1.1.2.5.1
 "OJALADORA DRIVE DS 781AT
 SERIE: 230701001
 Botonera direct drive DOSO
@@ -107,23 +102,29 @@ SERIE: 230701001
 Botonera direct drive DOSO
 MODEL: DS-1377AT SERIE:
 DSK23595",01/04/2025,01dNvVo4pIxrrdX7,nPeER14y4hGJJap1,,D,326.09,IVA sobre Compras,1.1.5.1.1
+"Doc. 001-001-000000384,   Uniforme dreampack ""Hellen""",01/04/2025,RBe3NYyVpcMJJdLJ,JvaM8N4KRt800epz,,H,106.98,Clientes Comerciales,1.1.2.5.1
 comb,01/04/2025,loej3EwRYFJMMaQM,RMdR6k9yOFlkkdl6,,D,17.39,Combustible Adm.,5.2.1.2.23
 comb,01/04/2025,loej3EwRYFJMMaQM,DGe73Y47BH6xxen2,,H,20.00,Proveedores,2.1.3.1.1
 comb,01/04/2025,loej3EwRYFJMMaQM,nPeER14y4hGJJap1,,D,2.61,IVA sobre Compras,1.1.5.1.1
 varios,01/04/2025,9pdBWDMQkfm99e8K,Ejb2k2VNzsGJJdVN,,D,164.29,Otros Costos de Producción,5.1.4.8
 varios,01/04/2025,9pdBWDMQkfm99e8K,DGe73Y47BH6xxen2,,H,188.93,Proveedores,2.1.3.1.1
-varios,01/04/2025,9pdBWDMQkfm99e8K,nPeER14y4hGJJap1,,D,24.64,IVA sobre Compras,1.1.5.1.1
-"Doc. 001-001-000000387,   DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,JvaMGBAWmI800dpz,MEegLgo2jhWxxaQ5,,D,19.45,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-100000633,   OJALADORA DRIVE DS 781AT
+SERIE: 230701001
+Botonera direct drive DOSO
+MODEL: DS-1377AT SERIE:
+DSK23595",01/04/2025,JvaM4G8JOi800epz,DGe73Y47BH6xxen2,,D,1012.30,Proveedores,2.1.3.1.1
+"FOUR WAY STRETCH 60 GRIS
+OSCURo",01/04/2025,wKe5Dmv4ZIKQQd31,Ejb2k2VNzsGJJdVN,,D,46.56,Otros Costos de Producción,5.1.4.8
 "FOUR WAY STRETCH 60 GRIS
 OSCURo",01/04/2025,wKe5Dmv4ZIKQQd31,DGe73Y47BH6xxen2,,H,53.54,Proveedores,2.1.3.1.1
 "FOUR WAY STRETCH 60 GRIS
 OSCURo",01/04/2025,wKe5Dmv4ZIKQQd31,nPeER14y4hGJJap1,,D,6.98,IVA sobre Compras,1.1.5.1.1
+"Doc. 002-100-000049829,   varios",01/04/2025,gQbWDQVEJhYggd6w,DGe73Y47BH6xxen2,,D,188.93,Proveedores,2.1.3.1.1
+"Doc. 002-100-000049829,   varios",01/04/2025,gQbWDQVEJhYggd6w,PnazpQZ4OIBppdO2,,H,188.93,Caja Chica,1.1.1.2
 "Doc. 001-001-000000387,   DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,pgenyDqWRhLqqdNQ,loejqlr84CJMMdQM,,D,30.00,Banco del Pacifico,1.1.1.3.2
 "Doc. 001-001-000000387,   DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,pgenyDqWRhLqqdNQ,JvaM8N4KRt800epz,,H,30.00,Clientes Comerciales,1.1.2.5.1
 Asiento de Retencion Doc N. 001-001-000000385,01/04/2025,JvaMvgVO1H800bpz,JvaM8N4KRt800epz,,H,2.53,Clientes Comerciales,1.1.2.5.1
 Asiento de Retencion Doc N. 001-001-000000385,01/04/2025,JvaMvgVO1H800bpz,nPeER14y4hGJJap1,,D,0.46,IVA sobre Compras,1.1.5.1.1
-"Doc. 002-100-000049829,   varios",01/04/2025,gQbWDQVEJhYggd6w,DGe73Y47BH6xxen2,,D,188.93,Proveedores,2.1.3.1.1
-"Doc. 002-100-000049829,   varios",01/04/2025,gQbWDQVEJhYggd6w,PnazpQZ4OIBppdO2,,H,188.93,Caja Chica,1.1.1.2
 Asiento de Retencion Doc N. 001-001-000000385,01/04/2025,JvaMvgVO1H800bpz,mBdJ6z51vFzmmd0J,,D,2.07,30% Bienes,1.1.5.2.1
 Asiento de Retencion Doc N. 001-001-000000384,01/04/2025,kPbkvK0Exc066a5Y,JvaM8N4KRt800epz,,H,5.38,Clientes Comerciales,1.1.2.5.1
 Asiento de Retencion Doc N. 001-001-000000384,01/04/2025,kPbkvK0Exc066a5Y,mBdJ6z51vFzmmd0J,,D,4.40,30% Bienes,1.1.5.2.1
@@ -133,46 +134,45 @@ Asiento de Retencion Doc N. 001-001-000000386,01/04/2025,Gge0ZprryiWDDbAD,nPeER1
 Asiento de Retencion Doc N. 001-001-000000386,01/04/2025,Gge0ZprryiWDDbAD,mBdJ6z51vFzmmd0J,,D,17.77,30% Bienes,1.1.5.2.1
 polifan,01/04/2025,RBe3AkmEQIMJJbLJ,nPeER14y4hGJJap1,,D,4.45,IVA sobre Compras,1.1.5.1.1
 polifan,01/04/2025,RBe3AkmEQIMJJbLJ,DGe73Y47BH6xxen2,,H,34.10,Proveedores,2.1.3.1.1
-"FOUR WAY STRETCH 60 GRIS
-OSCURo",01/04/2025,wKe5Dmv4ZIKQQd31,Ejb2k2VNzsGJJdVN,,D,46.56,Otros Costos de Producción,5.1.4.8
-com,01/04/2025,XKdw3XqOgsQzzdgW,DGe73Y47BH6xxen2,,H,7.00,Proveedores,2.1.3.1.1
-"Doc. 001-001-000744802,   contifico",01/04/2025,PnazZAr9YTBppaO2,xmbmZ8JV3IYKKdoK,,H,47.10,Tarjeta de crédito (Pago),2.1.4.3
-com,01/04/2025,XKdw3XqOgsQzzdgW,nPeER14y4hGJJap1,,D,0.91,IVA sobre Compras,1.1.5.1.1
-"Doc. 002-002-000032422,   alm",01/04/2025,pgenKlEREcLqqaNQ,MEegLgo2jhWxxaQ5,,H,7.98,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000744802,   contifico",01/04/2025,PnazZAr9YTBppaO2,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
+varios,01/04/2025,9pdBWDMQkfm99e8K,nPeER14y4hGJJap1,,D,24.64,IVA sobre Compras,1.1.5.1.1
+"Doc. 001-001-000000385,   Uniforme Dreampack ""Sara""",01/04/2025,MEeg07nDrIWxxaQ5,JvaM8N4KRt800epz,,H,50.37,Clientes Comerciales,1.1.2.5.1
 "Doc. 002-001-000380443,   polifan",01/04/2025,9jaK4G0Oniwvvbk5,DGe73Y47BH6xxen2,,D,17.19,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000384,   Uniforme dreampack ""Hellen""",01/04/2025,RBe3NYyVpcMJJdLJ,MEegLgo2jhWxxaQ5,,D,106.98,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000744802,   contifico",01/04/2025,PnazZAr9YTBppaO2,xmbmZ8JV3IYKKdoK,,H,47.10,Tarjeta de crédito (Pago),2.1.4.3
+alm,01/04/2025,Y4er3Pllphj00a2L,nPeER14y4hGJJap1,,D,1.04,IVA sobre Compras,1.1.5.1.1
 "Doc. 002-001-000380443,   polifan",01/04/2025,9jaK4G0Oniwvvbk5,MEegLgo2jhWxxaQ5,,H,17.19,Banco de Guayaquil,1.1.1.3.1
 "Doc. 002-001-000380443,   polifan",01/04/2025,RBe3W877QFMJJeLJ,DGe73Y47BH6xxen2,,D,16.91,Proveedores,2.1.3.1.1
-alm,01/04/2025,Y4er3Pllphj00a2L,DGe73Y47BH6xxen2,,H,7.98,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000387,   DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,JvaMGBAWmI800dpz,JvaM8N4KRt800epz,,H,19.45,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000387,   DESCIFRAR ""MARIA SOL BARCIA""",01/04/2025,JvaMGBAWmI800dpz,MEegLgo2jhWxxaQ5,,D,19.45,Banco de Guayaquil,1.1.1.3.1
+com,01/04/2025,XKdw3XqOgsQzzdgW,RMdR6k9yOFlkkdl6,,D,6.09,Combustible Adm.,5.2.1.2.23
+"Doc. 002-002-000032422,   alm",01/04/2025,pgenKlEREcLqqaNQ,MEegLgo2jhWxxaQ5,,H,7.98,Banco de Guayaquil,1.1.1.3.1
 "Doc. 002-002-000032422,   alm",01/04/2025,pgenKlEREcLqqaNQ,DGe73Y47BH6xxen2,,D,7.98,Proveedores,2.1.3.1.1
-"Doc. 034-050-000157734,   com",01/04/2025,kPbkEgp1xt066e5Y,MEegLgo2jhWxxaQ5,,H,7.00,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000744802,   contifico",01/04/2025,PnazZAr9YTBppaO2,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
 "Doc. 001-001-000000383,   Elaboracion Mockup DIGITAL uniformes HANSEN HOLM",01/04/2025,Ejb2ZWv5jCGJJbVN,JvaM8N4KRt800epz,,H,39.81,Clientes Comerciales,1.1.2.5.1
-alm,01/04/2025,Y4er3Pllphj00a2L,Y4erkBOW4Uj00a2L,,D,6.94,Alimentación Adm.,5.2.1.2.4
+"Doc. 001-001-000000383,   Elaboracion Mockup DIGITAL uniformes HANSEN HOLM",01/04/2025,Ejb2ZWv5jCGJJbVN,loejqlr84CJMMdQM,,D,39.81,Banco del Pacifico,1.1.1.3.2
 Asiento de Retencion Doc N. 001-001-000000383,01/04/2025,y7aAZ1NzPio33bgZ,RMdR6k9nwhlkkdl6,,D,1.08,2.75% Servicios,1.1.5.3.8
 Asiento de Retencion Doc N. 001-001-000000383,01/04/2025,y7aAZ1NzPio33bgZ,9jaKrz4GJtwvvek5,,D,4.11,70% Servicios,1.1.5.2.2
 Asiento de Retencion Doc N. 001-001-000000383,01/04/2025,y7aAZ1NzPio33bgZ,JvaM8N4KRt800epz,,H,5.19,Clientes Comerciales,1.1.2.5.1
 "Doc. 034-050-000157734,   com",01/04/2025,kPbkEgp1xt066e5Y,DGe73Y47BH6xxen2,,D,7.00,Proveedores,2.1.3.1.1
-alm,01/04/2025,Y4er3Pllphj00a2L,nPeER14y4hGJJap1,,D,1.04,IVA sobre Compras,1.1.5.1.1
-com,01/04/2025,XKdw3XqOgsQzzdgW,RMdR6k9yOFlkkdl6,,D,6.09,Combustible Adm.,5.2.1.2.23
+com,01/04/2025,XKdw3XqOgsQzzdgW,DGe73Y47BH6xxen2,,H,7.00,Proveedores,2.1.3.1.1
+"Doc. 034-050-000157734,   com",01/04/2025,kPbkEgp1xt066e5Y,MEegLgo2jhWxxaQ5,,H,7.00,Banco de Guayaquil,1.1.1.3.1
+com,01/04/2025,XKdw3XqOgsQzzdgW,nPeER14y4hGJJap1,,D,0.91,IVA sobre Compras,1.1.5.1.1
 "Doc. 001-001-000000386,   Uniformes ""EPM"" sede MEXICO",01/04/2025,YWb4OWzDxCWQQaZ1,MEegLgo2jhWxxaQ5,,D,432.30,Banco de Guayaquil,1.1.1.3.1
 "Doc. 001-001-000000386,   Uniformes ""EPM"" sede MEXICO",01/04/2025,YWb4OWzDxCWQQaZ1,JvaM8N4KRt800epz,,H,432.30,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000383,   Elaboracion Mockup DIGITAL uniformes HANSEN HOLM",01/04/2025,Ejb2ZWv5jCGJJbVN,loejqlr84CJMMdQM,,D,39.81,Banco del Pacifico,1.1.1.3.2
 "Doc. 001-001-000000385,   Uniforme Dreampack ""Sara""",01/04/2025,MEeg07nDrIWxxaQ5,MEegLgo2jhWxxaQ5,,D,50.37,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000000385,   Uniforme Dreampack ""Sara""",01/04/2025,MEeg07nDrIWxxaQ5,JvaM8N4KRt800epz,,H,50.37,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000384,   Uniforme dreampack ""Hellen""",01/04/2025,RBe3NYyVpcMJJdLJ,MEegLgo2jhWxxaQ5,,D,106.98,Banco de Guayaquil,1.1.1.3.1
-COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,PnazpQZwysBppdO2,,D,43.48,Comisiones Vtas,5.2.1.1.20
-"Doc. 001-001-000000411,   Descifrar ""Emilia Guillén""",01/05/2025,RBe3AjX79FMJJbLJ,MEegLgo2jhWxxaQ5,,D,49.45,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000000412,   Uniformes EPIC JOURNEY",01/05/2025,RMdRzyMB0ulkkdl6,JvaM8N4KRt800epz,,H,82.80,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000411,   Descifrar ""Emilia Guillén""",01/05/2025,RBe3AjX79FMJJbLJ,JvaM8N4KRt800epz,,H,49.45,Clientes Comerciales,1.1.2.5.1
 ALMUERZO,01/05/2025,O8bYg6m6YcZJJe7j,DGe73Y47BH6xxen2,,H,9.48,Proveedores,2.1.3.1.1
 ALMUERZO,01/05/2025,O8bYg6m6YcZJJe7j,nPeER14y4hGJJap1,,D,1.24,IVA sobre Compras,1.1.5.1.1
-COMISION DE VENTAS,01/05/2025,jZdyKgwAWHWzzaJ4,DGe73Y47BH6xxen2,,H,300.00,Proveedores,2.1.3.1.1
 "Doc. 002-002-000000065,   COMISIONISTA POR SERVICIOS EFECTUADOS",01/05/2025,01dNzAD8pFxrrdX7,MEegLgo2jhWxxaQ5,,H,50.00,Banco de Guayaquil,1.1.1.3.1
+COMISION DE VENTAS,01/05/2025,jZdyKgwAWHWzzaJ4,DGe73Y47BH6xxen2,,H,300.00,Proveedores,2.1.3.1.1
 COMISION DE VENTAS,01/05/2025,jZdyKgwAWHWzzaJ4,PnazpQZAOTBppdO2,,D,300.00,Anticipo a Proveedores,1.1.4.3
-COMISION DE VENTAS,01/05/2025,JvaMyzZKAf800apz,DGe73Y47BH6xxen2,,D,300.00,Proveedores,2.1.3.1.1
-LOS BRACHOS,01/05/2025,y7aA0k7zBSo33egZ,DGe73Y47BH6xxen2,,H,300.00,Proveedores,2.1.3.1.1
-"Doc. 002-002-000000065,   COMISIONISTA POR SERVICIOS EFECTUADOS",01/05/2025,01dNzAD8pFxrrdX7,DGe73Y47BH6xxen2,,D,50.00,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000412,   Uniformes EPIC JOURNEY",01/05/2025,RMdRzyMB0ulkkdl6,MEegLgo2jhWxxaQ5,,D,82.80,Banco de Guayaquil,1.1.1.3.1
 COMISION DE VENTAS,01/05/2025,JvaMyzZKAf800apz,MEegLgo2jhWxxaQ5,,H,300.00,Banco de Guayaquil,1.1.1.3.1
+"Doc. 002-002-000000065,   COMISIONISTA POR SERVICIOS EFECTUADOS",01/05/2025,01dNzAD8pFxrrdX7,DGe73Y47BH6xxen2,,D,50.00,Proveedores,2.1.3.1.1
+COMISION DE VENTAS,01/05/2025,JvaMyzZKAf800apz,DGe73Y47BH6xxen2,,D,300.00,Proveedores,2.1.3.1.1
 "Doc. 005-003-000037609,   ALMUERZO",01/05/2025,BXdLxkQwrcOppdJZ,DGe73Y47BH6xxen2,,D,9.48,Proveedores,2.1.3.1.1
-COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,nPeER14y4hGJJap1,,D,6.52,IVA sobre Compras,1.1.5.1.1
+COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,DGe73Y47BH6xxen2,,H,50.00,Proveedores,2.1.3.1.1
 068CMC04464AOZOVERSION TEAMPLA,01/05/2025,wKe5Y8X3xtKQQe31,Ejb2k2VNzsGJJdVN,,D,56.51,Otros Costos de Producción,5.1.4.8
 068CMC04464AOZOVERSION TEAMPLA,01/05/2025,wKe5Y8X3xtKQQe31,DGe73Y47BH6xxen2,,H,64.99,Proveedores,2.1.3.1.1
 068CMC04464AOZOVERSION TEAMPLA,01/05/2025,wKe5Y8X3xtKQQe31,nPeER14y4hGJJap1,,D,8.48,IVA sobre Compras,1.1.5.1.1
@@ -180,37 +180,37 @@ COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,nPeER14y4hGJJa
 9700003000181 CONTIFICO - ESENCIAL,01/05/2025,KVeZj4N1JtRVVe8P,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
 9700003000181 CONTIFICO - ESENCIAL,01/05/2025,KVeZj4N1JtRVVe8P,nPeER14y4hGJJap1,,D,6.14,IVA sobre Compras,1.1.5.1.1
 HILO DE BORDAR PRIME PRIME 5000M,01/05/2025,Gge0QgPW7iWDDaAD,Ejb2k2VNzsGJJdVN,,D,3.48,Otros Costos de Producción,5.1.4.8
-COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,DGe73Y47BH6xxen2,,H,50.00,Proveedores,2.1.3.1.1
 HILO DE BORDAR PRIME PRIME 5000M,01/05/2025,Gge0QgPW7iWDDaAD,DGe73Y47BH6xxen2,,H,4.00,Proveedores,2.1.3.1.1
-LOS BRACHOS,01/05/2025,y7aA0k7zBSo33egZ,PnazpQZAOTBppdO2,,D,300.00,Anticipo a Proveedores,1.1.4.3
+HILO DE BORDAR PRIME PRIME 5000M,01/05/2025,Gge0QgPW7iWDDaAD,nPeER14y4hGJJap1,,D,0.52,IVA sobre Compras,1.1.5.1.1
 "Doc. 005-003-000037609,   ALMUERZO",01/05/2025,BXdLxkQwrcOppdJZ,PnazpQZ4OIBppdO2,,H,9.48,Caja Chica,1.1.1.2
 ALMUERZO,01/05/2025,O8bYg6m6YcZJJe7j,Y4erkBOW4Uj00a2L,,D,8.24,Alimentación Adm.,5.2.1.2.4
 "Doc. 001-001-000000413,   Descifrar ""Ezequiel Toro""",01/05/2025,BleXJG7ykiNyybrN,loejqlr84CJMMdQM,,D,73.60,Banco del Pacifico,1.1.1.3.2
 "Doc. 001-001-000000413,   Descifrar ""Ezequiel Toro""",01/05/2025,BleXJG7ykiNyybrN,JvaM8N4KRt800epz,,H,73.60,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000412,   Uniformes EPIC JOURNEY",01/05/2025,RMdRzyMB0ulkkdl6,MEegLgo2jhWxxaQ5,,D,82.80,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000000412,   Uniformes EPIC JOURNEY",01/05/2025,RMdRzyMB0ulkkdl6,JvaM8N4KRt800epz,,H,82.80,Clientes Comerciales,1.1.2.5.1
-HILO DE BORDAR PRIME PRIME 5000M,01/05/2025,Gge0QgPW7iWDDaAD,nPeER14y4hGJJap1,,D,0.52,IVA sobre Compras,1.1.5.1.1
-LOS BRACHOS,01/05/2025,PnazLjNDruBppdO2,DGe73Y47BH6xxen2,,D,300.00,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000411,   Descifrar ""Emilia Guillén""",01/05/2025,RBe3AjX79FMJJbLJ,JvaM8N4KRt800epz,,H,49.45,Clientes Comerciales,1.1.2.5.1
-TALLER SANITA KOYA BELGICA CABELLO MELIDA,01/05/2025,QzaOABoWRHX99dp4,DGe73Y47BH6xxen2,,H,700.00,Proveedores,2.1.3.1.1
+LOS BRACHOS,01/05/2025,y7aA0k7zBSo33egZ,DGe73Y47BH6xxen2,,H,300.00,Proveedores,2.1.3.1.1
+COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,nPeER14y4hGJJap1,,D,6.52,IVA sobre Compras,1.1.5.1.1
+COMISIONISTA POR SERVICIOS EFECTUADOS,01/05/2025,loejoq5WRcJMMaQM,PnazpQZwysBppdO2,,D,43.48,Comisiones Vtas,5.2.1.1.20
+LOS BRACHOS,01/05/2025,y7aA0k7zBSo33egZ,PnazpQZAOTBppdO2,,D,300.00,Anticipo a Proveedores,1.1.4.3
+"Doc. 001-001-000000411,   Descifrar ""Emilia Guillén""",01/05/2025,RBe3AjX79FMJJbLJ,MEegLgo2jhWxxaQ5,,D,49.45,Banco de Guayaquil,1.1.1.3.1
+LOS BRACHOS,01/05/2025,PnazLjNDruBppdO2,MEegLgo2jhWxxaQ5,,H,300.00,Banco de Guayaquil,1.1.1.3.1
 "Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,RMdR6k90VFlkkdl6,,H,9.60,IVA sobre Ventas,2.1.7.4.1
-"Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
+"Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
 "Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,nPeER14mgIGJJap1,,H,16.00,Venta de Bienes,4.1.1
 "Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,nPeER14mgIGJJap1,,H,5.00,Venta de Bienes,4.1.1
 Uniformes EPIC JOURNEY,01/05/2025,RBe3NAlB4sMJJdLJ,JvaM8N4KRt800epz,,D,133.40,Clientes Comerciales,1.1.2.5.1
-LOS BRACHOS,01/05/2025,PnazLjNDruBppdO2,MEegLgo2jhWxxaQ5,,H,300.00,Banco de Guayaquil,1.1.1.3.1
+LOS BRACHOS,01/05/2025,PnazLjNDruBppdO2,DGe73Y47BH6xxen2,,D,300.00,Proveedores,2.1.3.1.1
 "Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,JvaM8N4KRt800epz,,D,73.60,Clientes Comerciales,1.1.2.5.1
 Uniformes EPIC JOURNEY,01/05/2025,RBe3NAlB4sMJJdLJ,RMdR6k90VFlkkdl6,,H,17.40,IVA sobre Ventas,2.1.7.4.1
 "Descifrar ""Emilia Guillén""",01/05/2025,BXdLEq9mAIOppeJZ,JvaM8N4KRt800epz,,D,49.45,Clientes Comerciales,1.1.2.5.1
 "Descifrar ""Emilia Guillén""",01/05/2025,BXdLEq9mAIOppeJZ,RMdR6k90VFlkkdl6,,H,6.45,IVA sobre Ventas,2.1.7.4.1
 "Descifrar ""Emilia Guillén""",01/05/2025,BXdLEq9mAIOppeJZ,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
-"Descifrar ""Emilia Guillén""",01/05/2025,BXdLEq9mAIOppeJZ,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
-"Doc. 001-001-000000414,   Uniformes PLASTILED S.A",01/05/2025,XKdwWjoBJHQzzdgW,JvaM8N4KRt800epz,,H,301.12,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000414,   Uniformes PLASTILED S.A",01/05/2025,XKdwWjoBJHQzzdgW,MEegLgo2jhWxxaQ5,,D,301.12,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000000414,   Uniformes PLASTILED S.A",01/05/2025,XKdwWjoBJHQzzdgW,JvaM8N4KRt800epz,,H,301.12,Clientes Comerciales,1.1.2.5.1
+"Descifrar ""Emilia Guillén""",01/05/2025,BXdLEq9mAIOppeJZ,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
 Uniformes EPIC JOURNEY,01/05/2025,RBe3NAlB4sMJJdLJ,nPeER14mgIGJJap1,,H,116.00,Venta de Bienes,4.1.1
 Uniformes PLASTILED S.A,01/05/2025,EMaxgDzOEC044e5G,nPeER14mgIGJJap1,,H,261.84,Venta de Bienes,4.1.1
-"Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
+"Descifrar ""Ezequiel Toro""",01/05/2025,Lmav1ALP8Cgjje3N,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
 Uniformes PLASTILED S.A,01/05/2025,EMaxgDzOEC044e5G,JvaM8N4KRt800epz,,D,301.12,Clientes Comerciales,1.1.2.5.1
+TALLER SANITA KOYA BELGICA CABELLO MELIDA,01/05/2025,QzaOABoWRHX99dp4,DGe73Y47BH6xxen2,,H,700.00,Proveedores,2.1.3.1.1
 TALLER SANITA KOYA BELGICA CABELLO MELIDA,01/05/2025,QzaOABoWRHX99dp4,PnazpQZAOTBppdO2,,D,700.00,Anticipo a Proveedores,1.1.4.3
 TALLER SANITA KOYA BELGICA CABELLO MELIDA,01/05/2025,1qdGpq7LKSlppeN8,DGe73Y47BH6xxen2,,D,700.00,Proveedores,2.1.3.1.1
 TALLER SANITA KOYA BELGICA CABELLO MELIDA,01/05/2025,1qdGpq7LKSlppeN8,MEegLgo2jhWxxaQ5,,H,700.00,Banco de Guayaquil,1.1.1.3.1
@@ -218,86 +218,84 @@ PAGO SEGUNDA QUINCENA DE ABRIL,01/05/2025,Yjbqy49NGcrPPbLN,Lmav2RVv5cgjja3N,,D,8
 Uniformes PLASTILED S.A,01/05/2025,EMaxgDzOEC044e5G,RMdR6k90VFlkkdl6,,H,39.28,IVA sobre Ventas,2.1.7.4.1
 "Doc. 033-030-000246550,   068CMC04464AOZOVERSION TEAMPLA",01/05/2025,Arb6P1G19i9AAeyR,DGe73Y47BH6xxen2,,D,64.99,Proveedores,2.1.3.1.1
 "Doc. 033-030-000246550,   068CMC04464AOZOVERSION TEAMPLA",01/05/2025,Arb6P1G19i9AAeyR,MEegLgo2jhWxxaQ5,,H,64.99,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000758116,   9700003000181 CONTIFICO - ESENCIAL",01/05/2025,LqdPByWZ1smrral4,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
 PAGO SEGUNDA QUINCENA DE ABRIL,01/05/2025,Yjbqy49NGcrPPbLN,MEegLgo2jhWxxaQ5,,H,865.00,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000758116,   9700003000181 CONTIFICO - ESENCIAL",01/05/2025,LqdPByWZ1smrral4,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
+"Doc. 001-001-000758116,   9700003000181 CONTIFICO - ESENCIAL",01/05/2025,LqdPByWZ1smrral4,MEegLgo2jhWxxaQ5,,H,47.10,Banco de Guayaquil,1.1.1.3.1
 "Doc. 001-003-000217028,   HILO DE BORDAR PRIME PRIME 5000M",01/05/2025,xgepxALz2HLNNe1p,DGe73Y47BH6xxen2,,D,4.00,Proveedores,2.1.3.1.1
 "Doc. 001-003-000217028,   HILO DE BORDAR PRIME PRIME 5000M",01/05/2025,xgepxALz2HLNNe1p,MEegLgo2jhWxxaQ5,,H,4.00,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000758116,   9700003000181 CONTIFICO - ESENCIAL",01/05/2025,LqdPByWZ1smrral4,MEegLgo2jhWxxaQ5,,H,47.10,Banco de Guayaquil,1.1.1.3.1
 CONFECCION CAMISAS MANGA LARGA,01/06/2023,QEMaxxRlEs044a5G,RMdR6k90VFlkkdl6,,H,3.36,IVA sobre Ventas,2.1.7.4.1
-CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,RMdR6k90VFlkkdl6,,H,3.00,IVA sobre Ventas,2.1.7.4.1
-CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,JvaM8N4KRt800epz,,D,28.00,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000107,   CONECCION CAMISAS",01/06/2023,jMEegzXVYcWxxdQ5,JvaM8N4KRt800epz,,H,28.00,Clientes Comerciales,1.1.2.5.1
+CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,nPeER14mgIGJJap1,,H,7.00,Venta de Bienes,4.1.1
 CONFECCION CAMISAS MANGA LARGA,01/06/2023,QEMaxxRlEs044a5G,JvaM8N4KRt800epz,,D,31.36,Clientes Comerciales,1.1.2.5.1
 CONFECCION CAMISAS MANGA LARGA,01/06/2023,QEMaxxRlEs044a5G,nPeER14mgIGJJap1,,H,28.00,Venta de Bienes,4.1.1
 NOTA DE CREDITO (ANULACION FACTURA),01/06/2023,3RBe3XZy4TMJJaLJ,JvaM8N4KRt800epz,,H,51.52,Clientes Comerciales,1.1.2.5.1
 NOTA DE CREDITO (ANULACION FACTURA),01/06/2023,3RBe3XZy4TMJJaLJ,RMdR6k90VFlkkdl6,,D,5.52,IVA sobre Ventas,2.1.7.4.1
 NOTA DE CREDITO (ANULACION FACTURA),01/06/2023,3RBe3XZy4TMJJaLJ,nPeER14mgIGJJap1,,D,28.00,Venta de Bienes,4.1.1
 NOTA DE CREDITO (ANULACION FACTURA),01/06/2023,3RBe3XZy4TMJJaLJ,nPeER14mgIGJJap1,,D,18.00,Venta de Bienes,4.1.1
-CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
+CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,JvaM8N4KRt800epz,,D,28.00,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000107,   CONECCION CAMISAS",01/06/2023,jMEegzXVYcWxxdQ5,jZdyP7YAgiWzzbJ4,,D,28.00,Caja,1.1.1.1
-"Doc. 001-001-000000106,   CONFECCION CAMISAS MANGA LARGA",01/06/2023,0pZeV6ZrMtKLLeGW,jZdyP7YAgiWzzbJ4,,D,31.36,Caja,1.1.1.1
-CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,nPeER14mgIGJJap1,,H,7.00,Venta de Bienes,4.1.1
+CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
+"Doc. 001-001-000000107,   CONECCION CAMISAS",01/06/2023,jMEegzXVYcWxxdQ5,JvaM8N4KRt800epz,,H,28.00,Clientes Comerciales,1.1.2.5.1
+CONECCION CAMISAS,01/06/2023,RYjbqWJ73IrPPeLN,RMdR6k90VFlkkdl6,,H,3.00,IVA sobre Ventas,2.1.7.4.1
 "Doc. 001-001-000000106,   CONFECCION CAMISAS MANGA LARGA",01/06/2023,0pZeV6ZrMtKLLeGW,JvaM8N4KRt800epz,,H,31.36,Clientes Comerciales,1.1.2.5.1
-CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados,01/06/2024,nPeEK33oWSGJJbp1,RMdR6k90VFlkkdl6,,H,75.00,IVA sobre Ventas,2.1.7.4.1
+"Doc. 001-001-000000106,   CONFECCION CAMISAS MANGA LARGA",01/06/2023,0pZeV6ZrMtKLLeGW,jZdyP7YAgiWzzbJ4,,D,31.36,Caja,1.1.1.1
+"Doc. 001-001-000000248,   CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados",01/06/2024,Pnazq2LxZIBppeO2,jZdyP7YAgiWzzbJ4,,D,575.00,Caja,1.1.1.1
+"Doc. 001-001-000000248,   CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados",01/06/2024,Pnazq2LxZIBppeO2,JvaM8N4KRt800epz,,H,575.00,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000004,   NOTA DE CRÉDITO DE FACTURA",01/06/2024,rRbDwMmYKSmKKa6L,PnazpQZ4OIBppdO2,,H,609.50,Caja Chica,1.1.1.2
+"Doc. 001-001-000000004,   NOTA DE CRÉDITO DE FACTURA",01/06/2024,rRbDwMmYKSmKKa6L,JvaM8N4KRt800epz,,D,609.50,Clientes Comerciales,1.1.2.5.1
 CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados,01/06/2024,nPeEK33oWSGJJbp1,JvaM8N4KRt800epz,,D,575.00,Clientes Comerciales,1.1.2.5.1
 CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados,01/06/2024,nPeEK33oWSGJJbp1,nPeER14mgIGJJap1,,H,500.00,Venta de Bienes,4.1.1
 NOTA DE CRÉDITO DE FACTURA,01/06/2024,1qdGw33W7SlppdN8,JvaM8N4KRt800epz,,H,609.50,Clientes Comerciales,1.1.2.5.1
 NOTA DE CRÉDITO DE FACTURA,01/06/2024,1qdGw33W7SlppdN8,RMdR6k90VFlkkdl6,,D,79.50,IVA sobre Ventas,2.1.7.4.1
 NOTA DE CRÉDITO DE FACTURA,01/06/2024,1qdGw33W7SlppdN8,nPeER14mgIGJJap1,,D,270.00,Venta de Bienes,4.1.1
 NOTA DE CRÉDITO DE FACTURA,01/06/2024,1qdGw33W7SlppdN8,nPeER14mgIGJJap1,,D,260.00,Venta de Bienes,4.1.1
-"Doc. 001-001-000000248,   CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados",01/06/2024,Pnazq2LxZIBppeO2,JvaM8N4KRt800epz,,H,575.00,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000248,   CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados",01/06/2024,Pnazq2LxZIBppeO2,jZdyP7YAgiWzzbJ4,,D,575.00,Caja,1.1.1.1
-"Doc. 001-001-000000004,   NOTA DE CRÉDITO DE FACTURA",01/06/2024,rRbDwMmYKSmKKa6L,JvaM8N4KRt800epz,,D,609.50,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000004,   NOTA DE CRÉDITO DE FACTURA",01/06/2024,rRbDwMmYKSmKKa6L,PnazpQZ4OIBppdO2,,H,609.50,Caja Chica,1.1.1.2
+CONJUNTOS DE SEGURIDAD CON 3 logotipos bordados,01/06/2024,nPeEK33oWSGJJbp1,RMdR6k90VFlkkdl6,,H,75.00,IVA sobre Ventas,2.1.7.4.1
 "Doc. 001-001-000772332,   9700003000232 CONTIFICO - CONTIFICO PAYROL 5",01/06/2025,01dNz3O66IxrrdX7,xmbmZ8JV3IYKKdoK,,H,47.10,Tarjeta de crédito (Pago),2.1.4.3
 "Doc. 001-001-000772332,   9700003000232 CONTIFICO - CONTIFICO PAYROL 5",01/06/2025,01dNz3O66IxrrdX7,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
+9700003000232 CONTIFICO - CONTIFICO PAYROL 5,01/06/2025,pgenK8ZqRiLqqaNQ,RMdRo9qKOilkkel6,,D,40.96,Sistema Contable Contifico,5.2.1.2.69
 9700003000232 CONTIFICO - CONTIFICO PAYROL 5,01/06/2025,pgenK8ZqRiLqqaNQ,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
 9700003000232 CONTIFICO - CONTIFICO PAYROL 5,01/06/2025,pgenK8ZqRiLqqaNQ,nPeER14y4hGJJap1,,D,6.14,IVA sobre Compras,1.1.5.1.1
-9700003000232 CONTIFICO - CONTIFICO PAYROL 5,01/06/2025,pgenK8ZqRiLqqaNQ,RMdRo9qKOilkkel6,,D,40.96,Sistema Contable Contifico,5.2.1.2.69
-"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,RMdR6k90VFlkkdl6,,H,9.45,IVA sobre Ventas,2.1.7.4.1
-123 mt minimat premier primera,01/07/2024,Yjbq8m5KrFrPPaLN,DGe73Y47BH6xxen2,,H,123.02,Proveedores,2.1.3.1.1
-123 mt minimat premier primera,01/07/2024,Yjbq8m5KrFrPPaLN,0yelYXGgMTK55aER,,D,106.97,Materia Prima,5.1.1.3
-"Doc. 001-001-000000259,   uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,PnazQnxxmuBppeO2,loejqlr84CJMMdQM,,D,72.45,Banco del Pacifico,1.1.1.3.2
-123 mt minimat premier primera,01/07/2024,Yjbq8m5KrFrPPaLN,nPeER14y4hGJJap1,,D,16.05,IVA sobre Compras,1.1.5.1.1
-"Doc. 004-003-000022161,   30 mt gabardina tactel primera",01/07/2024,9jaK7PmORfwvvak5,DGe73Y47BH6xxen2,,D,126.60,Proveedores,2.1.3.1.1
-"Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,xmbmGp7R0fYKKeoK,nPeER14mgIGJJap1,,H,2.00,Venta de Bienes,4.1.1
-"Doc. 004-003-000022161,   30 mt gabardina tactel primera",01/07/2024,9jaK7PmORfwvvak5,PnazpQZ4OIBppdO2,,H,126.60,Caja Chica,1.1.1.2
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,DGe73Y47BH6xxen2,,H,3950.00,Proveedores,2.1.3.1.1
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejR5DM4fJMMeQM,,D,44506.71,Maquinarias y Equipos,1.2.1.6
 INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,kPbkRBEVvs066a5Y,,H,47997.44,Obligaciones con Instituciones Financieras Locales,2.1.4.1
 "Doc. 004-002-000093944,   123 mt minimat premier primera",01/07/2024,Arb6xRKjzt9AAeyR,DGe73Y47BH6xxen2,,D,123.02,Proveedores,2.1.3.1.1
-"Doc. 004-002-000093944,   123 mt minimat premier primera",01/07/2024,Arb6xRKjzt9AAeyR,MEegLgo2jhWxxaQ5,,H,123.02,Banco de Guayaquil,1.1.1.3.1
+"Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,xmbmGp7R0fYKKeoK,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
 "Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,xmbmGp7R0fYKKeoK,RMdR6k90VFlkkdl6,,H,4.05,IVA sobre Ventas,2.1.7.4.1
 "Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,xmbmGp7R0fYKKeoK,JvaM8N4KRt800epz,,D,31.05,Clientes Comerciales,1.1.2.5.1
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,MEegLgo2jhWxxaQ5,,D,79.50,Banco de Guayaquil,1.1.1.3.1
+"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,RMdR6k90VFlkkdl6,,H,9.45,IVA sobre Ventas,2.1.7.4.1
+123 mt minimat premier primera,01/07/2024,Yjbq8m5KrFrPPaLN,nPeER14y4hGJJap1,,D,16.05,IVA sobre Compras,1.1.5.1.1
+"Doc. 004-003-000022161,   30 mt gabardina tactel primera",01/07/2024,9jaK7PmORfwvvak5,PnazpQZ4OIBppdO2,,H,126.60,Caja Chica,1.1.1.2
 INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,EMaxk8Xmlh044e5G,,H,28000.00,Documentos por Pagar Funcionarios y/o Empleados,2.1.8.5
-"Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,xmbmGp7R0fYKKeoK,nPeER14mgIGJJap1,,H,25.00,Venta de Bienes,4.1.1
-30 mt gabardina tactel primera,01/07/2024,jZdykxnVzsWzzaJ4,DGe73Y47BH6xxen2,,H,126.60,Proveedores,2.1.3.1.1
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,MEegJ8zKjFWxxdQ5,,D,7500.00,Muebles y Enseres,1.2.1.5
+"Doc. 004-003-000022161,   30 mt gabardina tactel primera",01/07/2024,9jaK7PmORfwvvak5,DGe73Y47BH6xxen2,,D,126.60,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000259,   uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,PnazQnxxmuBppeO2,loejqlr84CJMMdQM,,D,72.45,Banco del Pacifico,1.1.1.3.2
+123 mt minimat premier primera,01/07/2024,Yjbq8m5KrFrPPaLN,0yelYXGgMTK55aER,,D,106.97,Materia Prima,5.1.1.3
+123 mt minimat premier primera,01/07/2024,Yjbq8m5KrFrPPaLN,DGe73Y47BH6xxen2,,H,123.02,Proveedores,2.1.3.1.1
+"Doc. 004-002-000093944,   123 mt minimat premier primera",01/07/2024,Arb6xRKjzt9AAeyR,MEegLgo2jhWxxaQ5,,H,123.02,Banco de Guayaquil,1.1.1.3.1
+"Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,xmbmGp7R0fYKKeoK,nPeER14mgIGJJap1,,H,2.00,Venta de Bienes,4.1.1
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,DGe73Y47BH6xxen2,,H,3950.00,Proveedores,2.1.3.1.1
 INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,500.00,Banco del Pacifico,1.1.1.3.2
-30 mt gabardina tactel primera,01/07/2024,jZdykxnVzsWzzaJ4,nPeER14y4hGJJap1,,D,16.51,IVA sobre Compras,1.1.5.1.1
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,500.00,Banco del Pacifico,1.1.1.3.2
-"Doc. 001-001-000000258,   Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,EMax8loJJc044a5G,MEegLgo2jhWxxaQ5,,D,31.05,Banco de Guayaquil,1.1.1.3.1
-30 mt gabardina tactel primera,01/07/2024,jZdykxnVzsWzzaJ4,0yelYXGgMTK55aER,,D,110.09,Materia Prima,5.1.1.3
-"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,nPeER14mgIGJJap1,,H,50.00,Venta de Bienes,4.1.1
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,1.07,Banco del Pacifico,1.1.1.3.2
-"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,JvaM8N4KRt800epz,,D,72.45,Clientes Comerciales,1.1.2.5.1
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,500.00,Banco del Pacifico,1.1.1.3.2
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,wKe595YgxuKQQe31,,D,6322.12,Cuentas por cobrar mes anterior,1.1.2.5.8
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejR5DM4fJMMeQM,,D,44506.71,Maquinarias y Equipos,1.2.1.6
-"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,nPeER14mgIGJJap1,,H,4.00,Venta de Bienes,4.1.1
+"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,nPeER14mgIGJJap1,,H,9.00,Venta de Bienes,4.1.1
 INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,kPbkRBEKvh066a5Y,,D,5238.04,Equipos de Computación,1.2.1.7
 INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,0yelYXGL1HK55aER,,D,14800.00,"Vehículos, equipos de transporte y equipo caminero móvil",1.2.1.8
-"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,nPeER14mgIGJJap1,,H,9.00,Venta de Bienes,4.1.1
 "Doc. 001-001-000000259,   uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,PnazQnxxmuBppeO2,JvaM8N4KRt800epz,,H,72.45,Clientes Comerciales,1.1.2.5.1
-INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,MEegJ8zKjFWxxdQ5,,D,7500.00,Muebles y Enseres,1.2.1.5
+"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,nPeER14mgIGJJap1,,H,50.00,Venta de Bienes,4.1.1
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,MEegLgo2jhWxxaQ5,,D,79.50,Banco de Guayaquil,1.1.1.3.1
+30 mt gabardina tactel primera,01/07/2024,jZdykxnVzsWzzaJ4,nPeER14y4hGJJap1,,D,16.51,IVA sobre Compras,1.1.5.1.1
+30 mt gabardina tactel primera,01/07/2024,jZdykxnVzsWzzaJ4,DGe73Y47BH6xxen2,,H,126.60,Proveedores,2.1.3.1.1
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,1.07,Banco del Pacifico,1.1.1.3.2
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,wKe595YgxuKQQe31,,D,6322.12,Cuentas por cobrar mes anterior,1.1.2.5.8
+"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,nPeER14mgIGJJap1,,H,4.00,Venta de Bienes,4.1.1
+"Doc. 001-001-000000258,   Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,EMax8loJJc044a5G,MEegLgo2jhWxxaQ5,,D,31.05,Banco de Guayaquil,1.1.1.3.1
 "Doc. 001-001-000000258,   Uniforme ""Nikola Lopez Luque"" C#4",01/07/2024,EMax8loJJc044a5G,JvaM8N4KRt800epz,,H,31.05,Clientes Comerciales,1.1.2.5.1
-SERVICIOS DE CORTE,01/07/2025,DGe7PB33yT6xxan2,DGe73Y47BH6xxen2,,H,250.89,Proveedores,2.1.3.1.1
+"uniforme descifrar ""EMILIANO MIRANDA"" C #12 P#34",01/07/2024,0yelDoM01CK55eER,JvaM8N4KRt800epz,,D,72.45,Clientes Comerciales,1.1.2.5.1
+30 mt gabardina tactel primera,01/07/2024,jZdykxnVzsWzzaJ4,0yelYXGgMTK55aER,,D,110.09,Materia Prima,5.1.1.3
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,500.00,Banco del Pacifico,1.1.1.3.2
+INICIO CONTABLE,01/07/2024,DGe7VoqDOc6xxdn2,loejqlr84CJMMdQM,,D,500.00,Banco del Pacifico,1.1.1.3.2
 SERVICIOS DE CORTE,01/07/2025,DGe7PB33yT6xxan2,kPbkRBElJu066a5Y,,D,250.89,Sueldos por Pagar,2.1.7.7.1
-"Doc. 001-001-000000176,   SERVICIOS DE CORTE",01/07/2025,XKdwJqprwiQzzbgW,DGe73Y47BH6xxen2,,D,250.89,Proveedores,2.1.3.1.1
 Flete,01/07/2025,KBe1K01xoUmDDbXy,BXdL904VrCOppeJZ,,D,13.92,Fletes Vtas.,5.2.1.1.28
 Flete,01/07/2025,KBe1K01xoUmDDbXy,DGe73Y47BH6xxen2,,H,16.01,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000077,   mano de obra",01/07/2025,P9aQP3YGqUqEEeDM,MEegLgo2jhWxxaQ5,,H,732.00,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000000176,   SERVICIOS DE CORTE",01/07/2025,XKdwJqprwiQzzbgW,DGe73Y47BH6xxen2,,D,250.89,Proveedores,2.1.3.1.1
 "Doc. 002-002-000000073,   PUBLICIDAD EN REDES SOCIALES",01/07/2025,XKdwJq9pwtQzzbgW,loejqlr84CJMMdQM,,H,100.00,Banco del Pacifico,1.1.1.3.2
-"Doc. 001-001-000000077,   mano de obra",01/07/2025,P9aQP3YGqUqEEeDM,DGe73Y47BH6xxen2,,D,732.00,Proveedores,2.1.3.1.1
+SERVICIOS DE CORTE,01/07/2025,DGe7PB33yT6xxan2,DGe73Y47BH6xxen2,,H,250.89,Proveedores,2.1.3.1.1
 "Doc. 001-002-000000064,   HENINKEN ELBORACION DE 186 CAMISAS M/C",01/07/2025,rRbD3oKokumKKa6L,MEegLgo2jhWxxaQ5,,H,483.60,Banco de Guayaquil,1.1.1.3.1
 PUBLICIDAD EN REDES SOCIALES,01/07/2025,PnazMzVMycBppeO2,nPeER14y4hGJJap1,,D,13.04,IVA sobre Compras,1.1.5.1.1
 mano de obra,01/07/2025,01dNMxqAmcxrrbX7,nPeER14pgTGJJap1,,D,880.46,Sueldos Mano de Obra Indirecta,5.1.3.1
@@ -314,63 +312,63 @@ HENINKEN ELBORACION DE 186 CAMISAS M/C,01/07/2025,kPbkqLWVru066e5Y,DGe73Y47BH6xx
 "Doc. 001-002-000000064,   HENINKEN ELBORACION DE 186 CAMISAS M/C",01/07/2025,rRbD3oKokumKKa6L,DGe73Y47BH6xxen2,,D,483.60,Proveedores,2.1.3.1.1
 "Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,1qdG3rkjKUlppdN8,DGe73Y47BH6xxen2,,D,391.67,Proveedores,2.1.3.1.1
 "Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,1qdG3rkjKUlppdN8,MEegLgo2jhWxxaQ5,,H,391.67,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000786015,   contifico",01/07/2025,mBdJ0VLMPhzmma0J,MEegLgo2jhWxxaQ5,,H,47.10,Banco de Guayaquil,1.1.1.3.1
-"Doc. 001-001-000786015,   contifico",01/07/2025,mBdJ0VLMPhzmma0J,DGe73Y47BH6xxen2,,D,47.10,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000077,   mano de obra",01/07/2025,BleXZjgKVtNyybrN,PnazpQZ4OIBppdO2,,H,5.53,Caja Chica,1.1.1.2
+"Doc. 001-001-000000077,   mano de obra",01/07/2025,BleXZjgKVtNyybrN,DGe73Y47BH6xxen2,,D,5.53,Proveedores,2.1.3.1.1
 PUBLICIDAD EN REDES SOCIALES,01/07/2025,PnazMzVMycBppeO2,LqdPNg4w1umrral4,,D,86.96,Publicidad y Promoción Adm.,5.2.1.2.21
 PUBLICIDAD EN REDES SOCIALES,01/07/2025,PnazMzVMycBppeO2,DGe73Y47BH6xxen2,,H,100.00,Proveedores,2.1.3.1.1
 97-COFIMAR CAMISETA POLO,01/07/2025,Ejb2LY6y1tGJJeVN,DGe73Y47BH6xxen2,,H,71.88,Proveedores,2.1.3.1.1
 97-COFIMAR CAMISETA POLO,01/07/2025,Ejb2LY6y1tGJJeVN,nPeER14y4hGJJap1,,D,9.38,IVA sobre Compras,1.1.5.1.1
-"Doc. 001-001-000000077,   mano de obra",01/07/2025,BleXZjgKVtNyybrN,PnazpQZ4OIBppdO2,,H,5.53,Caja Chica,1.1.1.2
-"Doc. 001-001-000000077,   mano de obra",01/07/2025,BleXZjgKVtNyybrN,DGe73Y47BH6xxen2,,D,5.53,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000077,   mano de obra",01/07/2025,P9aQP3YGqUqEEeDM,MEegLgo2jhWxxaQ5,,H,732.00,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000000077,   mano de obra",01/07/2025,P9aQP3YGqUqEEeDM,DGe73Y47BH6xxen2,,D,732.00,Proveedores,2.1.3.1.1
 "Doc. 001-001-000000176,   SERVICIOS DE CORTE",01/07/2025,XKdwJqprwiQzzbgW,MEegLgo2jhWxxaQ5,,H,250.89,Banco de Guayaquil,1.1.1.3.1
 "Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,PnazMwvZOtBppeO2,DGe73Y47BH6xxen2,,D,150.00,Proveedores,2.1.3.1.1
 97-COFIMAR CAMISETA POLO,01/07/2025,Ejb2LY6y1tGJJeVN,BXdL84rjWTOppdJZ,,D,62.50,Maquiladores,5.1.3.10
 "Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,9jaK3V8XMuwvvak5,DGe73Y47BH6xxen2,,D,81.25,Proveedores,2.1.3.1.1
-SUELDO + COMISIONES,01/07/2025,jZdyKDz86cWzzaJ4,PnazpQZwysBppdO2,,D,1000.00,Comisiones Vtas,5.2.1.1.20
-"Doc. 001-001-000000456,   CAMISA/BLUSA EMPRESARIAL CON TELA COLUMBIA + BORDADO ESPALDA",01/07/2025,nPeEn2XYKTGJJap1,KVeZVjQj2HRVVe8P,,D,1311.00,Banco Internacional,1.1.1.3.3
-contifico,01/07/2025,rRbDmXQEKsmKKd6L,RMdRo9qKOilkkel6,,D,40.96,Sistema Contable Contifico,5.2.1.2.69
-"Doc. 001-002-000000299,   SUELDO + COMISIONES",01/07/2025,y7aA0V0v3to33egZ,DGe73Y47BH6xxen2,,D,1490.00,Proveedores,2.1.3.1.1
-"Doc. 001-002-000000299,   SUELDO + COMISIONES",01/07/2025,y7aA0V0v3to33egZ,MEegLgo2jhWxxaQ5,,H,1490.00,Banco de Guayaquil,1.1.1.3.1
-contifico,01/07/2025,rRbDmXQEKsmKKd6L,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000456,   CAMISA/BLUSA EMPRESARIAL CON TELA COLUMBIA + BORDADO ESPALDA",01/07/2025,nPeEn2XYKTGJJap1,JvaM8N4KRt800epz,,H,1311.00,Clientes Comerciales,1.1.2.5.1
-"Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,PnazMwvZOtBppeO2,PnazpQZAOTBppdO2,,H,150.00,Anticipo a Proveedores,1.1.4.3
-97-COFIMAR ANA MAQUILA,01/07/2025,RMdR3WEgqhlkkel6,DGe73Y47BH6xxen2,,H,355.00,Proveedores,2.1.3.1.1
 97-COFIMAR ANA MAQUILA,01/07/2025,RMdR3WEgqhlkkel6,BXdL84rjWTOppdJZ,,D,355.00,Maquiladores,5.1.3.10
+"Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,PnazMwvZOtBppeO2,PnazpQZAOTBppdO2,,H,150.00,Anticipo a Proveedores,1.1.4.3
+"Doc. 001-002-000000299,   SUELDO + COMISIONES",01/07/2025,y7aA0V0v3to33egZ,MEegLgo2jhWxxaQ5,,H,1490.00,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000000456,   CAMISA/BLUSA EMPRESARIAL CON TELA COLUMBIA + BORDADO ESPALDA",01/07/2025,nPeEn2XYKTGJJap1,JvaM8N4KRt800epz,,H,1311.00,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-002-000000299,   SUELDO + COMISIONES",01/07/2025,y7aA0V0v3to33egZ,DGe73Y47BH6xxen2,,D,1490.00,Proveedores,2.1.3.1.1
+contifico,01/07/2025,rRbDmXQEKsmKKd6L,RMdRo9qKOilkkel6,,D,40.96,Sistema Contable Contifico,5.2.1.2.69
+"Doc. 001-001-000000456,   CAMISA/BLUSA EMPRESARIAL CON TELA COLUMBIA + BORDADO ESPALDA",01/07/2025,nPeEn2XYKTGJJap1,KVeZVjQj2HRVVe8P,,D,1311.00,Banco Internacional,1.1.1.3.3
 92-TRITON ANA MAQUILADORA,01/07/2025,9jaK3M3VnFwvvak5,DGe73Y47BH6xxen2,,H,126.00,Proveedores,2.1.3.1.1
-92-TRITON ANA MAQUILADORA,01/07/2025,9jaK3M3VnFwvvak5,BXdL84rjWTOppdJZ,,D,126.00,Maquiladores,5.1.3.10
+SUELDO + COMISIONES,01/07/2025,jZdyKDz86cWzzaJ4,PnazpQZwysBppdO2,,D,1000.00,Comisiones Vtas,5.2.1.1.20
+SUELDO + COMISIONES,01/07/2025,jZdyKDz86cWzzaJ4,DGe73Y47BH6xxen2,,H,1490.00,Proveedores,2.1.3.1.1
+contifico,01/07/2025,rRbDmXQEKsmKKd6L,DGe73Y47BH6xxen2,,H,47.10,Proveedores,2.1.3.1.1
 contifico,01/07/2025,rRbDmXQEKsmKKd6L,nPeER14y4hGJJap1,,D,6.14,IVA sobre Compras,1.1.5.1.1
 "Doc. 001-001-000000464,   CONFECCION DE CAMISAS Y BLUSAS",01/07/2025,mBdJv22l9Tzmmd0J,9pdBBO4yQum99d8K,,D,357.42,Anticipos de Clientes,2.1.10
-SUELDO + COMISIONES,01/07/2025,jZdyKDz86cWzzaJ4,kPbkRBElJu066a5Y,,D,490.00,Sueldos por Pagar,2.1.7.7.1
-SUELDO + COMISIONES,01/07/2025,jZdyKDz86cWzzaJ4,DGe73Y47BH6xxen2,,H,1490.00,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000077,   mano de obra",01/07/2025,JvaMLYlYmS800epz,DGe73Y47BH6xxen2,,D,275.00,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000077,   mano de obra",01/07/2025,JvaMLYlYmS800epz,loejqlr84CJMMdQM,,H,275.00,Banco del Pacifico,1.1.1.3.2
 "Doc. 001-001-000000464,   CONFECCION DE CAMISAS Y BLUSAS",01/07/2025,mBdJv22l9Tzmmd0J,JvaM8N4KRt800epz,,H,357.42,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000006,   asesoria",01/07/2025,PnazW2xgYFBppbO2,loejqlr84CJMMdQM,,H,100.00,Banco del Pacifico,1.1.1.3.2
 "Doc. 001-001-000000006,   asesoria",01/07/2025,PnazW2xgYFBppbO2,DGe73Y47BH6xxen2,,D,100.00,Proveedores,2.1.3.1.1
-CONFECCION DE CAMISAS Y BLUSAS,01/07/2025,0yelr92r5fK55bER,JvaM8N4KRt800epz,,D,558.90,Clientes Comerciales,1.1.2.5.1
+SUELDO + COMISIONES,01/07/2025,jZdyKDz86cWzzaJ4,kPbkRBElJu066a5Y,,D,490.00,Sueldos por Pagar,2.1.7.7.1
+92-TRITON ANA MAQUILADORA,01/07/2025,9jaK3M3VnFwvvak5,BXdL84rjWTOppdJZ,,D,126.00,Maquiladores,5.1.3.10
+97-COFIMAR ANA MAQUILA,01/07/2025,RMdR3WEgqhlkkel6,DGe73Y47BH6xxen2,,H,355.00,Proveedores,2.1.3.1.1
+"Doc. 001-001-000000077,   mano de obra",01/07/2025,JvaMLYlYmS800epz,loejqlr84CJMMdQM,,H,275.00,Banco del Pacifico,1.1.1.3.2
 CONFECCION DE CAMISAS Y BLUSAS,01/07/2025,0yelr92r5fK55bER,RMdR6k90VFlkkdl6,,H,72.90,IVA sobre Ventas,2.1.7.4.1
+Flete,01/07/2025,KBe1K01xoUmDDbXy,nPeER14y4hGJJap1,,D,2.09,IVA sobre Compras,1.1.5.1.1
+CONFECCION DE CAMISAS Y BLUSAS,01/07/2025,0yelr92r5fK55bER,JvaM8N4KRt800epz,,D,558.90,Clientes Comerciales,1.1.2.5.1
+"Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,9jaK3V8XMuwvvak5,PnazpQZ4OIBppdO2,,H,81.25,Caja Chica,1.1.1.2
+"Doc. 001-001-000000077,   mano de obra",01/07/2025,JvaMLYlYmS800epz,DGe73Y47BH6xxen2,,D,275.00,Proveedores,2.1.3.1.1
 CONFECCION DE CAMISAS Y BLUSAS,01/07/2025,0yelr92r5fK55bER,nPeER14mgIGJJap1,,H,301.20,Venta de Bienes,4.1.1
 CONFECCION DE CAMISAS Y BLUSAS,01/07/2025,0yelr92r5fK55bER,nPeER14mgIGJJap1,,H,184.80,Venta de Bienes,4.1.1
-"Doc. 002-001-000000003,   pago sueldo de junio",01/07/2025,9jaK3V8XMuwvvak5,PnazpQZ4OIBppdO2,,H,81.25,Caja Chica,1.1.1.2
-Flete,01/07/2025,KBe1K01xoUmDDbXy,nPeER14y4hGJJap1,,D,2.09,IVA sobre Compras,1.1.5.1.1
-ALIMENTACION,01/08/2024,pZeV2gnyMiKLLeGW,Y4erkBOW4Uj00a2L,,D,30.99,Alimentación Adm.,5.2.1.2.4
 SISTEMA CONTABLE CONTIFICO,01/08/2024,XKdwyM7kXcQzzagW,nPeER14y4hGJJap1,,D,5.85,IVA sobre Compras,1.1.5.1.1
 SISTEMA CONTABLE CONTIFICO,01/08/2024,XKdwyM7kXcQzzagW,DGe73Y47BH6xxen2,,H,44.88,Proveedores,2.1.3.1.1
+ALIMENTACION,01/08/2024,pZeV2gnyMiKLLeGW,nPeER14y4hGJJap1,,D,4.65,IVA sobre Compras,1.1.5.1.1
+ALIMENTACION,01/08/2024,pZeV2gnyMiKLLeGW,Y4erkBOW4Uj00a2L,,D,30.99,Alimentación Adm.,5.2.1.2.4
+"Doc. 001-001-000629625,   SISTEMA CONTABLE CONTIFICO",01/08/2024,EMaxgwx6EH044e5G,DGe73Y47BH6xxen2,,D,44.88,Proveedores,2.1.3.1.1
+"Doc. 001-001-000629625,   SISTEMA CONTABLE CONTIFICO",01/08/2024,EMaxgwx6EH044e5G,PnazpQZ4OIBppdO2,,H,44.88,Caja Chica,1.1.1.2
+"Doc. 079-050-000314850,   ALIMENTACION",01/08/2024,y7aApglMpHo33egZ,DGe73Y47BH6xxen2,,D,35.64,Proveedores,2.1.3.1.1
+"Doc. 079-050-000314850,   ALIMENTACION",01/08/2024,y7aApglMpHo33egZ,PnazpQZ4OIBppdO2,,H,35.64,Caja Chica,1.1.1.2
 SISTEMA CONTABLE CONTIFICO,01/08/2024,XKdwyM7kXcQzzagW,1qdG6z4NLUlppbN8,,D,39.03,Servicios Contratados Adm.,5.2.1.2.14
 ALIMENTACION,01/08/2024,pZeV2gnyMiKLLeGW,DGe73Y47BH6xxen2,,H,35.64,Proveedores,2.1.3.1.1
-"Doc. 079-050-000314850,   ALIMENTACION",01/08/2024,y7aApglMpHo33egZ,PnazpQZ4OIBppdO2,,H,35.64,Caja Chica,1.1.1.2
-"Doc. 079-050-000314850,   ALIMENTACION",01/08/2024,y7aApglMpHo33egZ,DGe73Y47BH6xxen2,,D,35.64,Proveedores,2.1.3.1.1
-"Doc. 001-001-000629625,   SISTEMA CONTABLE CONTIFICO",01/08/2024,EMaxgwx6EH044e5G,PnazpQZ4OIBppdO2,,H,44.88,Caja Chica,1.1.1.2
-"Doc. 001-001-000629625,   SISTEMA CONTABLE CONTIFICO",01/08/2024,EMaxgwx6EH044e5G,DGe73Y47BH6xxen2,,D,44.88,Proveedores,2.1.3.1.1
-ALIMENTACION,01/08/2024,pZeV2gnyMiKLLeGW,nPeER14y4hGJJap1,,D,4.65,IVA sobre Compras,1.1.5.1.1
-ANTICIPO A UNIFORME,01/08/2025,1qdGBX4JyHlppbN8,JvaM8N4KRt800epz,,D,2233.48,Clientes Comerciales,1.1.2.5.1
-ANTICIPO A UNIFORME,01/08/2025,nPeEzX4ENhGJJap1,MEegLgo2jhWxxaQ5,,D,2233.48,Banco de Guayaquil,1.1.1.3.1
-ANTICIPO A UNIFORME,01/08/2025,nPeEzX4ENhGJJap1,JvaM8N4KRt800epz,,H,2233.48,Clientes Comerciales,1.1.2.5.1
-COMISONES DEL MES DE JULIO,01/08/2025,YjbqK8Vz2urPPeLN,DGe73Y47BH6xxen2,,H,1250.00,Proveedores,2.1.3.1.1
-COMISONES DEL MES DE JULIO,01/08/2025,YjbqK8Vz2urPPeLN,PnazpQZwysBppdO2,,D,1250.00,Comisiones Vtas,5.2.1.1.20
-"Doc. 001-002-000000314,   COMISONES DEL MES DE JULIO",01/08/2025,01dNMZ3XDhxrrbX7,DGe73Y47BH6xxen2,,D,1250.00,Proveedores,2.1.3.1.1
-"Doc. 001-002-000000314,   COMISONES DEL MES DE JULIO",01/08/2025,01dNMZ3XDhxrrbX7,PnazpQZAOTBppdO2,,H,1250.00,Anticipo a Proveedores,1.1.4.3
 ANTICIPO A UNIFORME,01/08/2025,1qdGBX4JyHlppbN8,9pdBBO4yQum99d8K,,H,2233.48,Anticipos de Clientes,2.1.10
+"Doc. 001-002-000000314,   COMISONES DEL MES DE JULIO",01/08/2025,01dNMZ3XDhxrrbX7,DGe73Y47BH6xxen2,,D,1250.00,Proveedores,2.1.3.1.1
+ANTICIPO A UNIFORME,01/08/2025,1qdGBX4JyHlppbN8,JvaM8N4KRt800epz,,D,2233.48,Clientes Comerciales,1.1.2.5.1
+COMISONES DEL MES DE JULIO,01/08/2025,YjbqK8Vz2urPPeLN,PnazpQZwysBppdO2,,D,1250.00,Comisiones Vtas,5.2.1.1.20
+COMISONES DEL MES DE JULIO,01/08/2025,YjbqK8Vz2urPPeLN,DGe73Y47BH6xxen2,,H,1250.00,Proveedores,2.1.3.1.1
+ANTICIPO A UNIFORME,01/08/2025,nPeEzX4ENhGJJap1,JvaM8N4KRt800epz,,H,2233.48,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-002-000000314,   COMISONES DEL MES DE JULIO",01/08/2025,01dNMZ3XDhxrrbX7,PnazpQZAOTBppdO2,,H,1250.00,Anticipo a Proveedores,1.1.4.3
+ANTICIPO A UNIFORME,01/08/2025,nPeEzX4ENhGJJap1,MEegLgo2jhWxxaQ5,,D,2233.48,Banco de Guayaquil,1.1.1.3.1
 CONFECCION CAMISETAS DESCIFRA SAUL GOMEZCUELLO,02/02/2024,RMdRlojmEIlkkal6,nPeER14mgIGJJap1,,H,11.00,Venta de Bienes,4.1.1
 CONFECCION CAMISETAS DESCIFRA SAUL GOMEZCUELLO,02/02/2024,RMdRlojmEIlkkal6,nPeER14mgIGJJap1,,H,1.50,Venta de Bienes,4.1.1
 CONFECCION CAMISETAS DESCIFRA SAUL GOMEZCUELLO,02/02/2024,RMdRlojmEIlkkal6,RMdR6k90VFlkkdl6,,H,1.50,IVA sobre Ventas,2.1.7.4.1
@@ -382,12 +380,12 @@ CONFECCION CAMISETAS DESCIFRA SAUL GOMEZCUELLO,02/02/2024,RMdRlojmEIlkkal6,JvaM8
 comb,02/03/2025,xmbm31zZrSYKKeoK,RMdR6k9yOFlkkdl6,,D,12.61,Combustible Adm.,5.2.1.2.23
 comb,02/03/2025,xmbm31zZrSYKKeoK,DGe73Y47BH6xxen2,,H,14.50,Proveedores,2.1.3.1.1
 comb,02/03/2025,xmbm31zZrSYKKeoK,nPeER14y4hGJJap1,,D,1.89,IVA sobre Compras,1.1.5.1.1
-ALIM,02/03/2025,rRbDgXDN6umKKa6L,Y4erkBOW4Uj00a2L,,D,25.67,Alimentación Adm.,5.2.1.2.4
+ALIM,02/03/2025,rRbDgXDN6umKKa6L,Y4erkBOW4Uj00a2L,,D,1.82,Alimentación Adm.,5.2.1.2.4
 ALIM,02/03/2025,rRbDgXDN6umKKa6L,DGe73Y47BH6xxen2,,H,31.61,Proveedores,2.1.3.1.1
 ALIM,02/03/2025,rRbDgXDN6umKKa6L,nPeER14y4hGJJap1,,D,4.12,IVA sobre Compras,1.1.5.1.1
 COMB,02/03/2025,5wbo53o6KFGLLexE,RMdR6k9yOFlkkdl6,,D,8.70,Combustible Adm.,5.2.1.2.23
 COMB,02/03/2025,5wbo53o6KFGLLexE,DGe73Y47BH6xxen2,,H,10.00,Proveedores,2.1.3.1.1
-ALIM,02/03/2025,rRbDgXDN6umKKa6L,Y4erkBOW4Uj00a2L,,D,1.82,Alimentación Adm.,5.2.1.2.4
+ALIM,02/03/2025,rRbDgXDN6umKKa6L,Y4erkBOW4Uj00a2L,,D,25.67,Alimentación Adm.,5.2.1.2.4
 "Doc. 170-002-000301500,   ALIM",02/03/2025,pZeVB5kpWtKLLeGW,MEegLgo2jhWxxaQ5,,H,31.61,Banco de Guayaquil,1.1.1.3.1
 "Doc. 170-002-000301500,   ALIM",02/03/2025,pZeVB5kpWtKLLeGW,DGe73Y47BH6xxen2,,D,31.61,Proveedores,2.1.3.1.1
 "Doc. 001-015-000130830,   comb",02/03/2025,RBe35yW24hMJJbLJ,PnazpQZ4OIBppdO2,,H,14.50,Caja Chica,1.1.1.2
@@ -452,7 +450,7 @@ KETTY MERCHAN,02/05/2025,RMdREG0oKflkkbl6,MEegLgo2jhWxxaQ5,,H,222.00,Banco de Gu
 "Doc. 041-003-000736815,   ALIMEN",02/05/2025,Gge0JZDO7tWDDbAD,DGe73Y47BH6xxen2,,D,85.19,Proveedores,2.1.3.1.1
 "Doc. 170-002-000315844,   ALIMENTA",02/05/2025,xgepxvNDpiLNNe1p,PnazpQZ4OIBppdO2,,H,15.08,Caja Chica,1.1.1.2
 KETTY MERCHAN,02/05/2025,gQbWMNl7vHYgge6w,DGe73Y47BH6xxen2,,H,222.00,Proveedores,2.1.3.1.1
-COMBUSTIBLE,02/05/2025,nPeE4lBXlsGJJdp1,RMdR6k9yOFlkkdl6,,D,17.39,Combustible Adm.,5.2.1.2.23
+COMBUSTIBLE,02/05/2025,nPeE4lBXlsGJJdp1,DGe73Y47BH6xxen2,,H,20.00,Proveedores,2.1.3.1.1
 ALIMENTA,02/05/2025,EMaxXGmw3s044a5G,nPeER14y4hGJJap1,,D,1.97,IVA sobre Compras,1.1.5.1.1
 ALIMEN,02/05/2025,EMaxXGm7Eh044a5G,DGe73Y47BH6xxen2,,H,85.19,Proveedores,2.1.3.1.1
 ALIMEN,02/05/2025,EMaxXGm7Eh044a5G,Y4erkBOW4Uj00a2L,,D,74.08,Alimentación Adm.,5.2.1.2.4
@@ -462,7 +460,7 @@ ALIMENTA,02/05/2025,EMaxXGmw3s044a5G,DGe73Y47BH6xxen2,,H,15.08,Proveedores,2.1.3
 COMBUSTIBLE,02/05/2025,nPeE4lBXlsGJJdp1,nPeER14y4hGJJap1,,D,2.61,IVA sobre Compras,1.1.5.1.1
 ALIMENTA,02/05/2025,EMaxXGmw3s044a5G,Y4erkBOW4Uj00a2L,,D,13.11,Alimentación Adm.,5.2.1.2.4
 DINERO,02/05/2025,LqdP41806Tmrrdl4,EMaxk8XAqh044e5G,,D,25.50,Gastos de Oficina Adm.,5.2.1.2.63
-COMBUSTIBLE,02/05/2025,nPeE4lBXlsGJJdp1,DGe73Y47BH6xxen2,,H,20.00,Proveedores,2.1.3.1.1
+COMBUSTIBLE,02/05/2025,nPeE4lBXlsGJJdp1,RMdR6k9yOFlkkdl6,,D,17.39,Combustible Adm.,5.2.1.2.23
 EXTRA CON ETANOL,02/06/2025,rRbD4PR5YfmKKb6L,RMdR6k9yOFlkkdl6,,D,4.35,Combustible Adm.,5.2.1.2.23
 99-GASTROTECH ANTICIPO,02/06/2025,j6e9VBmrDTKggaWB,JvaM8N4KRt800epz,,D,1590.44,Clientes Comerciales,1.1.2.5.1
 EXTRA CON ETANOL,02/06/2025,rRbD4PR5YfmKKb6L,nPeER14y4hGJJap1,,D,0.65,IVA sobre Compras,1.1.5.1.1
@@ -723,7 +721,7 @@ DISEÑOS KENDALL SUBLIMADOS,03/05/2025,PnazkW1q5tBppbO2,nPeER14mgIGJJap1,,H,398.
 "Doc. 003-014-000186273,   ENTRETELA DE CAMISA 2030  RIGIDO 150CM",03/06/2025,XKdwG31W1iQzzdgW,DGe73Y47BH6xxen2,,D,264.99,Proveedores,2.1.3.1.1
 97-SESGO LLANO,03/06/2025,pZeV6lNZ1tKLLeGW,nPeER14y4hGJJap1,,D,0.93,IVA sobre Compras,1.1.5.1.1
 DUMBA KAKI #006,03/06/2025,RMdR9jj8zslkkbl6,Ejb2k2VNzsGJJdVN,,D,195.36,Otros Costos de Producción,5.1.4.8
-DUMBA KAKI #006,03/06/2025,RMdR9jj8zslkkbl6,DGe73Y47BH6xxen2,,H,224.66,Proveedores,2.1.3.1.1
+DUMBA KAKI #006,03/06/2025,RMdR9jj8zslkkbl6,nPeER14y4hGJJap1,,D,29.30,IVA sobre Compras,1.1.5.1.1
 ENTRETELA DE CAMISA 2030  RIGIDO 150CM,03/06/2025,O8bYgqqZATZJJe7j,Ejb2k2VNzsGJJdVN,,D,230.43,Otros Costos de Producción,5.1.4.8
 ENTRETELA DE CAMISA 2030  RIGIDO 150CM,03/06/2025,O8bYgqqZATZJJe7j,DGe73Y47BH6xxen2,,H,264.99,Proveedores,2.1.3.1.1
 ENTRETELA DE CAMISA 2030  RIGIDO 150CM,03/06/2025,O8bYgqqZATZJJe7j,nPeER14y4hGJJap1,,D,34.56,IVA sobre Compras,1.1.5.1.1
@@ -751,7 +749,7 @@ EXTRA CON ETANOL,03/06/2025,DGe74OLYws6xxan2,nPeER14y4hGJJap1,,D,2.75,IVA sobre 
 ARSENAL PRIMERA VERDE BOTELLA CLARO 22 151 Ancho,03/06/2025,pgenK8rPpHLqqaNQ,Ejb2k2VNzsGJJdVN,,D,3160.02,Otros Costos de Producción,5.1.4.8
 ARSENAL PRIMERA VERDE BOTELLA CLARO 22 151 Ancho,03/06/2025,pgenK8rPpHLqqaNQ,DGe73Y47BH6xxen2,,H,3634.02,Proveedores,2.1.3.1.1
 97-SESGO LLANO,03/06/2025,pZeV6lNZ1tKLLeGW,Ejb2k2VNzsGJJdVN,,D,6.17,Otros Costos de Producción,5.1.4.8
-DUMBA KAKI #006,03/06/2025,RMdR9jj8zslkkbl6,nPeER14y4hGJJap1,,D,29.30,IVA sobre Compras,1.1.5.1.1
+DUMBA KAKI #006,03/06/2025,RMdR9jj8zslkkbl6,DGe73Y47BH6xxen2,,H,224.66,Proveedores,2.1.3.1.1
 "Doc. 001-001-000000449,   CONFECCION DE UNIFORME CORPORATIVOS
 LABORATORIO LUQUES",03/07/2025,5wbow0ArAHGLLbxE,JvaM8N4KRt800epz,,H,645.39,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000449,   CONFECCION DE UNIFORME CORPORATIVOS
@@ -1910,38 +1908,38 @@ TELAS,09/07/2024,wKe50Xv8KFKQQd31,nPeER14y4hGJJap1,,D,1.70,IVA sobre Compras,1.1
 "Doc. 001-005-000169634,   polux",09/07/2024,Arb6xnlwLH9AAeyR,PnazpQZ4OIBppdO2,,H,42.09,Caja Chica,1.1.1.2
 "Doc. 009-006-000108240,   TELAS",09/07/2024,Y4er7xx7WSj00a2L,MEegLgo2jhWxxaQ5,,H,13.02,Banco de Guayaquil,1.1.1.3.1
 TELAS,09/07/2024,wKe50Xv8KFKQQd31,0yelYXGgMTK55aER,,D,11.32,Materia Prima,5.1.1.3
-"CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,RMdR6k90VFlkkdl6,,H,95.55,IVA sobre Ventas,2.1.7.4.1
+"CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,nPeER14mgIGJJap1,,H,555.00,Venta de Bienes,4.1.1
 "Doc. 001-001-000000260,   CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,EMax8MDQPh044a5G,loejqlr84CJMMdQM,,D,318.55,Banco del Pacifico,1.1.1.3.2
 "CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,JvaM8N4KRt800epz,,D,732.55,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000260,   CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,kPbkBO18Xh066a5Y,JvaM8N4KRt800epz,,H,414.00,Clientes Comerciales,1.1.2.5.1
-"CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,nPeER14mgIGJJap1,,H,82.00,Venta de Bienes,4.1.1
-"CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,nPeER14mgIGJJap1,,H,555.00,Venta de Bienes,4.1.1
-"Doc. 001-001-000000260,   CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,EMax8MDQPh044a5G,JvaM8N4KRt800epz,,H,318.55,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000260,   CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,kPbkBO18Xh066a5Y,jZdyP7YAgiWzzbJ4,,D,414.00,Caja,1.1.1.1
+"CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,nPeER14mgIGJJap1,,H,82.00,Venta de Bienes,4.1.1
+"Doc. 001-001-000000260,   CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,EMax8MDQPh044a5G,JvaM8N4KRt800epz,,H,318.55,Clientes Comerciales,1.1.2.5.1
+"CONFECCION CAMISETAS POLUX COMBINADAS ""LABORATORIOS AVVE""",09/07/2024,1qdGzwy73HlppbN8,RMdR6k90VFlkkdl6,,H,95.55,IVA sobre Ventas,2.1.7.4.1
+97-COFIMAR,09/07/2025,loejzRnXziJMMeQM,DGe73Y47BH6xxen2,,H,489.44,Proveedores,2.1.3.1.1
 97-COFIMAR,09/07/2025,loejzRnXziJMMeQM,Ejb2k2VNzsGJJdVN,,D,425.60,Otros Costos de Producción,5.1.4.8
-GABARDINA,09/07/2025,O8bY1En39SZJJb7j,Ejb2k2VNzsGJJdVN,,D,96.18,Otros Costos de Producción,5.1.4.8
 GABARDINA,09/07/2025,O8bY1En39SZJJb7j,DGe73Y47BH6xxen2,,H,110.61,Proveedores,2.1.3.1.1
 GABARDINA,09/07/2025,O8bY1En39SZJJb7j,nPeER14y4hGJJap1,,D,14.43,IVA sobre Compras,1.1.5.1.1
 HENINKEN HILO DE BORDAR,09/07/2025,wKe52yWXYTKQQa31,loejR5DBBUJMMeQM,,D,4.35,Suministros o materiales a ser consumidos en el proceso de producción ,1.1.3.3
 HENINKEN HILO DE BORDAR,09/07/2025,wKe52yWXYTKQQa31,nPeER14y4hGJJap1,,D,0.65,IVA sobre Compras,1.1.5.1.1
-97-COFIMAR Y DECIFRAR ALM ROSITA,09/07/2025,KBe1Xw93oTmDDdXy,DGe73Y47BH6xxen2,,H,76.74,Proveedores,2.1.3.1.1
 97-COFIMAR Y DECIFRAR ALM ROSITA,09/07/2025,KBe1Xw93oTmDDdXy,nPeER14y4hGJJap1,,D,10.01,IVA sobre Compras,1.1.5.1.1
-97-COFIMAR,09/07/2025,loejzRnXziJMMeQM,DGe73Y47BH6xxen2,,H,489.44,Proveedores,2.1.3.1.1
+GABARDINA,09/07/2025,O8bY1En39SZJJb7j,Ejb2k2VNzsGJJdVN,,D,96.18,Otros Costos de Producción,5.1.4.8
 117-LAVISION ALM STEFANY,09/07/2025,Ejb2Yk9R1cGJJaVN,Ejb2k2VNzsGJJdVN,,D,20.34,Otros Costos de Producción,5.1.4.8
 "Doc. 002-100-000063030,   97-COFIMAR Y DECIFRAR ALM ROSITA",09/07/2025,jZdyV1DkgfWzzeJ4,DGe73Y47BH6xxen2,,D,76.74,Proveedores,2.1.3.1.1
 "Doc. 002-100-000063030,   97-COFIMAR Y DECIFRAR ALM ROSITA",09/07/2025,jZdyV1DkgfWzzeJ4,MEegLgo2jhWxxaQ5,,H,76.74,Banco de Guayaquil,1.1.1.3.1
+"Doc. 001-001-000050230,   117-LAVISION ALM STEFANY",09/07/2025,Ejb2YnopNHGJJaVN,DGe73Y47BH6xxen2,,D,23.39,Proveedores,2.1.3.1.1
 117-LAVISION ALM STEFANY,09/07/2025,Ejb2Yk9R1cGJJaVN,DGe73Y47BH6xxen2,,H,23.39,Proveedores,2.1.3.1.1
 117-LAVISION ALM STEFANY,09/07/2025,Ejb2Yk9R1cGJJaVN,nPeER14y4hGJJap1,,D,3.05,IVA sobre Compras,1.1.5.1.1
-"Doc. 001-001-000050230,   117-LAVISION ALM STEFANY",09/07/2025,Ejb2YnopNHGJJaVN,DGe73Y47BH6xxen2,,D,23.39,Proveedores,2.1.3.1.1
-97-COFIMAR Y DECIFRAR ALM ROSITA,09/07/2025,KBe1Xw93oTmDDdXy,Ejb2k2VNzsGJJdVN,,D,66.73,Otros Costos de Producción,5.1.4.8
 "Doc. 001-001-000050230,   117-LAVISION ALM STEFANY",09/07/2025,Ejb2YnopNHGJJaVN,MEegLgo2jhWxxaQ5,,H,23.39,Banco de Guayaquil,1.1.1.3.1
+97-COFIMAR Y DECIFRAR ALM ROSITA,09/07/2025,KBe1Xw93oTmDDdXy,Ejb2k2VNzsGJJdVN,,D,66.73,Otros Costos de Producción,5.1.4.8
+97-COFIMAR Y DECIFRAR ALM ROSITA,09/07/2025,KBe1Xw93oTmDDdXy,DGe73Y47BH6xxen2,,H,76.74,Proveedores,2.1.3.1.1
 HENINKEN HILO DE BORDAR,09/07/2025,wKe52yWXYTKQQa31,DGe73Y47BH6xxen2,,H,5.00,Proveedores,2.1.3.1.1
 97-COFIMAR,09/07/2025,loejzRnXziJMMeQM,nPeER14y4hGJJap1,,D,63.84,IVA sobre Compras,1.1.5.1.1
+combustible Farley,09/08/2024,P9aQKMOmYiqEEdDM,DGe73Y47BH6xxen2,,H,20.00,Proveedores,2.1.3.1.1
 combustible Farley,09/08/2024,P9aQKMOmYiqEEdDM,rRbDk64VKhmKKa6L,,D,17.39,Combustible Vtas.,5.2.1.1.23
 "Doc. 077-004-002278096,   combustible Farley",09/08/2024,RMdRNDVnEFlkkdl6,DGe73Y47BH6xxen2,,D,20.00,Proveedores,2.1.3.1.1
-combustible Farley,09/08/2024,P9aQKMOmYiqEEdDM,DGe73Y47BH6xxen2,,H,20.00,Proveedores,2.1.3.1.1
-combustible Farley,09/08/2024,P9aQKMOmYiqEEdDM,nPeER14y4hGJJap1,,D,2.61,IVA sobre Compras,1.1.5.1.1
 "Doc. 077-004-002278096,   combustible Farley",09/08/2024,RMdRNDVnEFlkkdl6,PnazpQZ4OIBppdO2,,H,20.00,Caja Chica,1.1.1.2
+combustible Farley,09/08/2024,P9aQKMOmYiqEEdDM,nPeER14y4hGJJap1,,D,2.61,IVA sobre Compras,1.1.5.1.1
 "OCC-057506 
 OCC-057508",09/08/2025,PnazWMOMZTBppbO2,nPeER14mgIGJJap1,DKVeZKLRfRVVa8Py,H,18975.00,Venta de Bienes,4.1.1
 "OCC-057506 
@@ -1952,36 +1950,36 @@ OCC-057508",09/08/2025,PnazWMOMZTBppbO2,JvaM8N4KRt800epz,,D,30712.59,Clientes Co
 97- PAGO POR MAQUILA DE COFIMAR,09/08/2025,KBe1XJOAocmDDdXy,KVeZVjQj2HRVVe8P,,H,218.75,Banco Internacional,1.1.1.3.3
 "OCC-057506 
 OCC-057508",09/08/2025,PnazWMOMZTBppbO2,nPeER14mgIGJJap1,DKVeZKLRfRVVa8Py,H,7731.60,Venta de Bienes,4.1.1
-"EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,pZeVWL6xvTKLLaGW,JvaM8N4KRt800epz,,D,31.62,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,XKdwxGJRMCQzzegW,JvaM8N4KRt800epz,,H,20.00,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,XKdwxGJRMCQzzegW,jZdyP7YAgiWzzbJ4,,D,20.00,Caja,1.1.1.1
-"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,1qdGENvOKHlppaN8,jZdyP7YAgiWzzbJ4,,D,11.62,Caja,1.1.1.1
-"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,1qdGENvOKHlppaN8,JvaM8N4KRt800epz,,H,11.62,Clientes Comerciales,1.1.2.5.1
-"EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,pZeVWL6xvTKLLaGW,nPeER14mgIGJJap1,,H,27.50,Venta de Bienes,4.1.1
 "EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,pZeVWL6xvTKLLaGW,RMdR6k90VFlkkdl6,,H,4.12,IVA sobre Ventas,2.1.7.4.1
+"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,1qdGENvOKHlppaN8,JvaM8N4KRt800epz,,H,11.62,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,XKdwxGJRMCQzzegW,jZdyP7YAgiWzzbJ4,,D,20.00,Caja,1.1.1.1
+"EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,pZeVWL6xvTKLLaGW,nPeER14mgIGJJap1,,H,27.50,Venta de Bienes,4.1.1
+"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,XKdwxGJRMCQzzegW,JvaM8N4KRt800epz,,H,20.00,Clientes Comerciales,1.1.2.5.1
+"EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,pZeVWL6xvTKLLaGW,JvaM8N4KRt800epz,,D,31.62,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000297,   EQUIPO DE MADRINA ""TALLA S"" CUELLO REDONDO COLORES DE ARGENTINA",09/09/2024,1qdGENvOKHlppaN8,jZdyP7YAgiWzzbJ4,,D,11.62,Caja,1.1.1.1
 CONFECCION CAMISETAS POLO,09/10/2024,DGe77ook8t6xxen2,nPeER14mgIGJJap1,,H,44.00,Venta de Bienes,4.1.1
 CONFECCION CAMISETAS POLO,09/10/2024,DGe77ook8t6xxen2,nPeER14mgIGJJap1,,H,48.00,Venta de Bienes,4.1.1
 CONFECCION CAMISETAS POLO,09/10/2024,DGe77ook8t6xxen2,RMdR6k90VFlkkdl6,,H,13.80,IVA sobre Ventas,2.1.7.4.1
 CONFECCION CAMISETAS POLO,09/10/2024,DGe77ook8t6xxen2,JvaM8N4KRt800epz,,D,105.80,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000314,   CONFECCION CAMISETAS POLO",09/10/2024,nPeE7A22mSGJJbp1,JvaM8N4KRt800epz,,H,105.80,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000314,   CONFECCION CAMISETAS POLO",09/10/2024,nPeE7A22mSGJJbp1,jZdyP7YAgiWzzbJ4,,D,105.80,Caja,1.1.1.1
+UNIFORME POLO KLN,09/12/2024,RBe3XXOExTMJJaLJ,nPeER14mgIGJJap1,,H,126.00,Venta de Bienes,4.1.1
 UNIFORME POLO KLN,09/12/2024,RBe3XXOExTMJJaLJ,JvaM8N4KRt800epz,,D,144.90,Clientes Comerciales,1.1.2.5.1
 UNIFORME POLO KLN,09/12/2024,RBe3XXOExTMJJaLJ,RMdR6k90VFlkkdl6,,H,18.90,IVA sobre Ventas,2.1.7.4.1
-UNIFORME POLO KLN,09/12/2024,RBe3XXOExTMJJaLJ,nPeER14mgIGJJap1,,H,126.00,Venta de Bienes,4.1.1
-"Doc. 002-050-000075786,   COMB ING JORGE KELAL",10/01/2025,Arb6Q4A5QS9AAayR,DGe73Y47BH6xxen2,,D,5.00,Proveedores,2.1.3.1.1
 COMB ING JORGE KELAL,10/01/2025,jZdyNJXEVUWzzeJ4,nPeER14y4hGJJap1,,D,0.65,IVA sobre Compras,1.1.5.1.1
-COMB ING JORGE KELAL,10/01/2025,jZdyNJXEVUWzzeJ4,DGe73Y47BH6xxen2,,H,5.00,Proveedores,2.1.3.1.1
+"Doc. 002-050-000075786,   COMB ING JORGE KELAL",10/01/2025,Arb6Q4A5QS9AAayR,DGe73Y47BH6xxen2,,D,5.00,Proveedores,2.1.3.1.1
 "Doc. 002-050-000075786,   COMB ING JORGE KELAL",10/01/2025,Arb6Q4A5QS9AAayR,PnazpQZ4OIBppdO2,,H,5.00,Caja Chica,1.1.1.2
 COMB ING JORGE KELAL,10/01/2025,jZdyNJXEVUWzzeJ4,rRbDk64VKhmKKa6L,,D,4.35,Combustible Vtas.,5.2.1.1.23
-cierre,10/03/2025,MEego81BkcWxxeQ5,nPeER14y4hGJJap1,,D,0.09,IVA sobre Compras,1.1.5.1.1
+COMB ING JORGE KELAL,10/01/2025,jZdyNJXEVUWzzeJ4,DGe73Y47BH6xxen2,,H,5.00,Proveedores,2.1.3.1.1
+"Doc. 012-001-000067956,   PLASTIFLECHA EN CAJA DE
+10.000 UNIDADES",10/03/2025,xgep0EwNNSLNNe1p,DGe73Y47BH6xxen2,,D,26.00,Proveedores,2.1.3.1.1
 cierre,10/03/2025,MEego81BkcWxxeQ5,Ejb2k2VNzsGJJdVN,,D,0.61,Otros Costos de Producción,5.1.4.8
+cierre,10/03/2025,MEego81BkcWxxeQ5,nPeER14y4hGJJap1,,D,0.09,IVA sobre Compras,1.1.5.1.1
 "Doc. 001-006-000228173,   30285 POLUX",10/03/2025,9pdB5829WFm99b8K,MEegLgo2jhWxxaQ5,,H,219.76,Banco de Guayaquil,1.1.1.3.1
 cierre,10/03/2025,MEego81BkcWxxeQ5,DGe73Y47BH6xxen2,,H,0.70,Proveedores,2.1.3.1.1
 "Doc. 001-006-000228173,   30285 POLUX",10/03/2025,9pdB5829WFm99b8K,DGe73Y47BH6xxen2,,D,219.76,Proveedores,2.1.3.1.1
 "Doc. 012-001-000067956,   PLASTIFLECHA EN CAJA DE
 10.000 UNIDADES",10/03/2025,xgep0EwNNSLNNe1p,MEegLgo2jhWxxaQ5,,H,26.00,Banco de Guayaquil,1.1.1.3.1
-"Doc. 012-001-000067956,   PLASTIFLECHA EN CAJA DE
-10.000 UNIDADES",10/03/2025,xgep0EwNNSLNNe1p,DGe73Y47BH6xxen2,,D,26.00,Proveedores,2.1.3.1.1
 30285 POLUX,10/03/2025,pzb8JGZNgUMZZeEw,nPeER14y4hGJJap1,,D,28.66,IVA sobre Compras,1.1.5.1.1
 "PLASTIFLECHA EN CAJA DE
 10.000 UNIDADES",10/03/2025,KVeZLAMA8iRVVb8P,nPeER14y4hGJJap1,,D,3.39,IVA sobre Compras,1.1.5.1.1
@@ -4671,8 +4669,8 @@ POLUX,20/06/2025,Ejb2K6B71iGJJdVN,DGe73Y47BH6xxen2,,H,275.75,Proveedores,2.1.3.1
 POLUX,20/06/2025,Ejb2K6B71iGJJdVN,Ejb2k2VNzsGJJdVN,,D,239.78,Otros Costos de Producción,5.1.4.8
 anticipo Zhong Ying,20/06/2025,y7aA3QjqBfo33dgZ,JvaM8N4KRt800epz,,D,357.42,Clientes Comerciales,1.1.2.5.1
 anticipo Zhong Ying,20/06/2025,jZdyL6QlVCWzzbJ4,JvaM8N4KRt800epz,,H,357.42,Clientes Comerciales,1.1.2.5.1
-anticipo Zhong Ying,20/06/2025,jZdyL6QlVCWzzbJ4,KVeZVjQj2HRVVe8P,,D,357.42,Banco Internacional,1.1.1.3.3
 arsenal,20/06/2025,0yelr8yj7SK55bER,nPeER14y4hGJJap1,,D,28.70,IVA sobre Compras,1.1.5.1.1
+anticipo Zhong Ying,20/06/2025,jZdyL6QlVCWzzbJ4,KVeZVjQj2HRVVe8P,,D,357.42,Banco Internacional,1.1.1.3.3
 tela arsenal,20/06/2025,QzaO3Jv4pfX99ap4,Ejb2k2VNzsGJJdVN,,D,52.18,Otros Costos de Producción,5.1.4.8
 arsenal,20/06/2025,0yelr8yj7SK55bER,DGe73Y47BH6xxen2,,H,220.00,Proveedores,2.1.3.1.1
 tela arsenal,20/06/2025,QzaO3Jv4pfX99ap4,DGe73Y47BH6xxen2,,H,60.01,Proveedores,2.1.3.1.1
@@ -4804,7 +4802,7 @@ ali,21/04/2025,EMaxDvmq9F044a5G,DGe73Y47BH6xxen2,,H,78.50,Proveedores,2.1.3.1.1
 tela,21/04/2025,PnazGKop8HBppbO2,Ejb2k2VNzsGJJdVN,,D,52.95,Otros Costos de Producción,5.1.4.8
 "Doc. 003-001-000186563,   FLEECE LUCERNA PERCHADO
 I - CRUDO",21/04/2025,KBe1Rpg00TmDDaXy,DGe73Y47BH6xxen2,,D,9.86,Proveedores,2.1.3.1.1
-"Doc. 001-001-000000402,   Confeccion uniforme ""Santiago Mero""",21/04/2025,1qdGlk9B3ilppeN8,jZdyP7YAgiWzzbJ4,,D,8.75,Caja,1.1.1.1
+"Doc. 001-001-000000402,   Confeccion uniforme ""Santiago Mero""",21/04/2025,1qdGlk9B3ilppeN8,JvaM8N4KRt800epz,,H,8.75,Clientes Comerciales,1.1.2.5.1
 bioto,21/04/2025,RBe3NZgyQFMJJdLJ,Ejb2k2VNzsGJJdVN,,D,39.65,Otros Costos de Producción,5.1.4.8
 "Descifrar ""BRUNO AVILES"" C#6 P#30",21/04/2025,MEeg0nZVDuWxxaQ5,JvaM8N4KRt800epz,,D,49.45,Clientes Comerciales,1.1.2.5.1
 "Confeccion uniforme ""Santiago Mero""",21/04/2025,5wbo1ZBEYIGLLexE,RMdR6k90VFlkkdl6,,H,3.75,IVA sobre Ventas,2.1.7.4.1
@@ -4830,7 +4828,7 @@ bioto,21/04/2025,RBe3NZgyQFMJJdLJ,nPeER14y4hGJJap1,,D,5.95,IVA sobre Compras,1.1
 "Descifrar ""BRUNO AVILES"" C#6 P#30",21/04/2025,MEeg0nZVDuWxxaQ5,nPeER14mgIGJJap1,,H,18.00,Venta de Bienes,4.1.1
 "Confeccion uniforme ""Santiago Mero""",21/04/2025,5wbo1ZBEYIGLLexE,JvaM8N4KRt800epz,,D,28.75,Clientes Comerciales,1.1.2.5.1
 "Doc. 001-001-000000402,   Confeccion uniforme ""Santiago Mero""",21/04/2025,pgen1Em2RuLqqdNQ,JvaM8N4KRt800epz,,H,20.00,Clientes Comerciales,1.1.2.5.1
-"Doc. 001-001-000000402,   Confeccion uniforme ""Santiago Mero""",21/04/2025,1qdGlk9B3ilppeN8,JvaM8N4KRt800epz,,H,8.75,Clientes Comerciales,1.1.2.5.1
+"Doc. 001-001-000000402,   Confeccion uniforme ""Santiago Mero""",21/04/2025,1qdGlk9B3ilppeN8,jZdyP7YAgiWzzbJ4,,D,8.75,Caja,1.1.1.1
 Confección delantales niños de 7-11 años con logotipo escuela de los chefs,21/05/2024,LmavmlMmLcgjje3N,nPeER14mgIGJJap1,,H,120.00,Venta de Bienes,4.1.1
 "Doc. 001-001-000000245,   Confección delantales niños de 7-11 años con logotipo escuela de los chefs",21/05/2024,5wboAN5PKtGLLexE,jZdyP7YAgiWzzbJ4,,D,144.90,Caja,1.1.1.1
 "Doc. 001-001-000000245,   Confección delantales niños de 7-11 años con logotipo escuela de los chefs",21/05/2024,5wboAN5PKtGLLexE,JvaM8N4KRt800epz,,H,144.90,Clientes Comerciales,1.1.2.5.1
